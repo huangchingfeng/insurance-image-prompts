@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-Hant"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>保險業務 AI 做圖提示詞庫｜阿峰老師</title>
+<meta name="description" content="保險業務員專用的 AI 圖片提示詞庫：社群圖卡、客戶關懷、觀念圖解、活動宣傳、情境故事…選一個、複製、貼到 ChatGPT 或 Gemini 就能生圖，內建招攬合規護欄。">
+<meta name="theme-color" content="#0f9f6e"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230f9f6e'/%3E%3Ccircle cx='24' cy='26' r='8' fill='white'/%3E%3Cpath d='M14 50l12-14 8 8 6-7 10 13z' fill='white'/%3E%3C/svg%3E">
+<style>
+:root{--accent:#0f9f6e;--ink:#172033;--muted:#667085;--line:#dce3ee;--bg:#f4f7fb;--surface:#fff;--soft:#e9f8f2}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:'Inter','Noto Sans TC',system-ui,-apple-system,sans-serif;line-height:1.6}
+.wrap{width:min(1180px,calc(100% - 28px));margin:0 auto}
+header.nav{background:rgba(255,255,255,.96);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:20;backdrop-filter:blur(12px)}
+.nav-in{display:flex;align-items:center;justify-content:space-between;min-height:60px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:900;text-decoration:none;color:var(--ink)}
+.brand .mk{width:36px;height:36px;border-radius:9px;background:var(--accent);color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.2rem}
+.brand small{display:block;color:var(--muted);font-weight:700;font-size:.74rem}
+.nav a.cta{background:var(--ink);color:#fff;padding:9px 14px;border-radius:8px;text-decoration:none;font-weight:800;font-size:.9rem}
+.hero{background:linear-gradient(135deg,rgba(15,159,110,.10),rgba(11,107,203,.05)),var(--surface);border-bottom:1px solid var(--line)}
+.hero-in{padding:34px 0 24px}
+.kicker{display:inline-flex;gap:6px;background:var(--soft);color:#0b6b4d;font-weight:800;font-size:.82rem;padding:6px 12px;border-radius:999px}
+h1{font-size:clamp(1.45rem,3.4vw,2.05rem);font-weight:900;margin:13px 0 8px}
+.hero p{color:var(--muted);margin:0;max-width:760px}
+.how{margin-top:16px;background:var(--soft);border:1px solid #bfe9d8;border-radius:10px;padding:12px 15px;font-weight:600;font-size:.93rem}
+.compliance{margin-top:12px;background:#fff4f4;border:1px solid #fdd;color:#b42318;font-weight:800;padding:10px 14px;border-radius:8px;font-size:.88rem}
+.toolbar{position:sticky;top:60px;z-index:15;background:var(--bg);padding:14px 0 6px}
+.search input{width:100%;padding:13px 14px;border:1.5px solid var(--line);border-radius:10px;font-size:1rem;font-family:inherit;font-weight:600}
+.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:11px}
+.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 12px;font-weight:800;font-size:.85rem;cursor:pointer;font-family:inherit;color:#46536a}
+.chip.on{background:var(--ink);border-color:var(--ink);color:#fff}.chip span{opacity:.7}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;padding:14px 0 40px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 1px 3px rgba(16,24,40,.04)}
+.thumb{width:100%;aspect-ratio:1/1;object-fit:cover;background:#eef5ff;display:block}
+.thumb.ph{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;background:linear-gradient(135deg,#e9f8f2,#eef5ff);color:#7a8aa0}
+.thumb.ph span{font-size:2.4rem}.thumb.ph small{font-weight:700;font-size:.78rem;text-align:center}
+.body{padding:15px 16px 16px;display:flex;flex-direction:column;flex:1}
+.ctag{display:inline-block;align-self:flex-start;background:var(--soft);color:#0b6b4d;font-weight:800;font-size:.74rem;padding:3px 9px;border-radius:999px;margin-bottom:7px}
+.card h3{margin:0 0 8px;font-size:1.05rem;font-weight:900}
+.tags{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:10px}
+.tg{background:#f2f5f9;color:#475467;font-weight:700;font-size:.72rem;padding:3px 8px;border-radius:6px}
+.promptbox{background:#fbfcfe;border:1px solid var(--line);border-radius:9px;padding:11px 12px;margin-bottom:9px;max-height:140px;overflow:auto}
+.promptbox pre{margin:0;white-space:pre-wrap;font-family:inherit;font-size:.86rem;line-height:1.55;color:#2a3650}
+.note{color:#b42318;font-weight:700;font-size:.76rem;margin-bottom:10px;line-height:1.45}
+.copy{margin-top:auto;border:none;background:var(--accent);color:#fff;font-weight:800;border-radius:9px;padding:11px;cursor:pointer;font-family:inherit;font-size:.92rem}
+.copy.ok{background:#16a34a}
+.aibar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:2px 0 8px;color:var(--muted);font-weight:700;font-size:.86rem}
+.aibar a{text-decoration:none;font-weight:800;padding:7px 12px;border:1px solid var(--line);border-radius:8px;color:var(--ink);background:#fff}
+.afeng{margin:8px 0 24px}
+.afeng-card{background:linear-gradient(135deg,var(--soft),#fff);border:1px solid var(--line);border-top:3px solid var(--accent);border-radius:14px;padding:22px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.afeng-card img{width:70px;height:70px;border-radius:50%;object-fit:cover;flex:0 0 auto;border:2px solid #fff;box-shadow:0 2px 8px rgba(16,24,40,.18)}
+.afeng-card .nm{font-weight:900;font-size:1.05rem}.afeng-card .rl{color:var(--muted);font-weight:700;font-size:.85rem;margin-bottom:6px}
+.afeng-card .ct{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
+.btn{border:none;border-radius:9px;font-weight:800;padding:10px 15px;cursor:pointer;text-decoration:none;font-size:.92rem;display:inline-flex;align-items:center;gap:6px}
+.btn.line{background:#06c755;color:#fff}.btn.primary{background:var(--accent);color:#fff}
+footer{background:#fff;border-top:1px solid var(--line);padding:22px 0;color:var(--muted);font-size:.88rem}
+footer a{color:var(--accent);font-weight:800;text-decoration:none}
+.toast{position:fixed;left:50%;transform:translateX(-50%) translateY(12px);bottom:24px;background:#101828;color:#fff;padding:12px 18px;border-radius:9px;font-weight:800;opacity:0;transition:.2s;z-index:50}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+</style></head><body>
+<header class="nav"><div class="wrap nav-in">
+<a class="brand" href="#top"><span class="mk">🎨</span><span>保險業務 AI 做圖<small>提示詞庫｜阿峰老師</small></span></a>
+<a class="cta" href="https://www.autolab.cloud" target="_blank" rel="noopener">企業 AI 培訓</a>
+</div></header>
+<main id="top">
+<div class="hero"><div class="wrap hero-in">
+<span class="kicker">🎨 保險業務的 AI 做圖小幫手</span>
+<h1>保險業務 AI 做圖提示詞庫</h1>
+<p>16 個保險業務專用的 AI 圖片提示詞，分 7 類（社群圖卡、客戶關懷、觀念圖解、活動宣傳、情境故事…）。選一個 → 複製 → 貼到 ChatGPT 或 Gemini（Nano Banana）就能生圖。</p>
+<div class="how">💡 怎麼用：① 挑一張你想做的圖 → ② 按「複製提示詞」→ ③ 貼到 ChatGPT／Gemini 的對話框 → ④ 它幫你生圖，再依你的需求微調（顏色、文字、風格）。</div>
+<div class="compliance">⚠️ 合規提醒：圖上禁用「保證／最高／穩賺／節稅」等字眼；理賠情境不可暗示「一定賠」；真人形象請用本人真實照片、勿 AI 假造；正式對外前經主管或法遵覆核。</div>
+</div></div>
+<div class="wrap">
+<div class="toolbar">
+<div class="search"><input id="q" placeholder="搜尋：生日、保單健診、退休、增員…"></div>
+<div class="chips" id="chips"><button class="chip on" data-c="all">全部 <span>(16)</span></button><button class="chip" data-c="社群觀念圖卡">社群觀念圖卡 <span>(3)</span></button><button class="chip" data-c="觀念圖解">觀念圖解 <span>(2)</span></button><button class="chip" data-c="客戶關懷">客戶關懷 <span>(2)</span></button><button class="chip" data-c="情境故事圖">情境故事圖 <span>(4)</span></button><button class="chip" data-c="活動宣傳">活動宣傳 <span>(2)</span></button><button class="chip" data-c="增員招募">增員招募 <span>(1)</span></button><button class="chip" data-c="個人品牌">個人品牌 <span>(2)</span></button></div>
+</div>
+<div class="grid" id="grid">
+<article class="card" data-cat="社群觀念圖卡" data-search="保障像一把傘 社群觀念圖卡 扁平插畫 ig方形 保障觀念"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">社群觀念圖卡</div><h3>保障像一把傘</h3><div class="tags"><span class="tg">扁平插畫</span><span class="tg">IG方形</span><span class="tg">保障觀念</span></div><div class="promptbox"><pre id="ppumbrella">扁平向量插畫風格，一家四口開心地站在一把大傘下，傘外下著雨，雨滴上用小圖示標示「意外、疾病、失能、長照」；溫暖的米黃與藍色調，畫面上方留白可放標題，現代簡潔、有安心感，正方形 1:1 構圖。</pre></div><div class="note">⚠️ 不放保證/最高等字眼；傘=保障的溫暖比喻，避免恐懼感。</div><button class="copy" data-pid="ppumbrella">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="社群觀念圖卡" data-search="實支實付像安全網 社群觀念圖卡 概念插畫 醫療 ig方形"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">社群觀念圖卡</div><h3>實支實付像安全網</h3><div class="tags"><span class="tg">概念插畫</span><span class="tg">醫療</span><span class="tg">IG方形</span></div><div class="promptbox"><pre id="ppsafetynet">概念插畫風格，一張藍色的安全網張開，接住從上方落下的醫療費用符號（藥丸、針筒、收據、十字標誌）；簡潔現代、柔和藍色系，留白給標題文字，正方形構圖。</pre></div><div class="note">⚠️ 示意用途；具體理賠金額與條件以保單為準，圖上不放數字。</div><button class="copy" data-pid="ppsafetynet">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="社群觀念圖卡" data-search="定期健檢你的保單 社群觀念圖卡 扁平插畫 保單健診"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">社群觀念圖卡</div><h3>定期健檢你的保單</h3><div class="tags"><span class="tg">扁平插畫</span><span class="tg">保單健診</span></div><div class="promptbox"><pre id="ppcheckup">扁平插畫，一份保單文件搭配放大鏡與綠色勾選圖示，旁邊有一顆愛心與聽診器；專業整潔、藍綠配色，上方大量留白放標題，正方形 1:1。</pre></div><div class="note">⚠️ 健診=服務關懷，不暗示現有保單不足以製造焦慮。</div><button class="copy" data-pid="ppcheckup">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="觀念圖解" data-search="人生階段保障時間軸 觀念圖解 資訊圖 16:9 教育"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">觀念圖解</div><h3>人生階段保障時間軸</h3><div class="tags"><span class="tg">資訊圖</span><span class="tg">16:9</span><span class="tg">教育</span></div><div class="promptbox"><pre id="pplifeline">扁平資訊圖風格，一條橫向人生時間軸，依序五個階段：單身、結婚、生子、買房、退休，每階段一個簡單 icon 與小人物；乾淨專業、藍綠配色、大量留白，16:9 橫幅構圖。</pre></div><div class="note">⚠️ 教育型；各階段保障需求因人而異，僅供觀念說明。</div><button class="copy" data-pid="pplifeline">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="觀念圖解" data-search="保障缺口階梯圖 觀念圖解 概念插畫 缺口 教育"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">觀念圖解</div><h3>保障缺口階梯圖</h3><div class="tags"><span class="tg">概念插畫</span><span class="tg">缺口</span><span class="tg">教育</span></div><div class="promptbox"><pre id="ppgap">概念插畫，一座階梯從低到高，底部標示「已有保障」、頂部標示「實際需求」，中間的落差用半透明色塊表示缺口，一個小人站在階梯上往上看；簡潔、藍色系，留白放說明，正方形。</pre></div><div class="note">⚠️ 缺口為觀念示意、非個人試算；實際以需求分析為準。</div><button class="copy" data-pid="ppgap">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="客戶關懷" data-search="客戶生日祝福圖卡 客戶關懷 手繪溫馨 祝福 ig方形"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">客戶關懷</div><h3>客戶生日祝福圖卡</h3><div class="tags"><span class="tg">手繪溫馨</span><span class="tg">祝福</span><span class="tg">IG方形</span></div><div class="promptbox"><pre id="ppbirthday">溫馨手繪插畫風，一個生日蛋糕與飄浮的氣球、彩帶，柔和粉彩色調，畫面中央留白可加上『生日快樂』與客戶名字；清新簡約、有溫度，正方形 1:1。</pre></div><div class="note">⚠️ 純關懷，不夾帶招攬訊息與商品。</div><button class="copy" data-pid="ppbirthday">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="客戶關懷" data-search="節氣關懷・立冬進補 客戶關懷 手繪溫馨 節氣 健康"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">客戶關懷</div><h3>節氣關懷・立冬進補</h3><div class="tags"><span class="tg">手繪溫馨</span><span class="tg">節氣</span><span class="tg">健康</span></div><div class="promptbox"><pre id="ppwinter">溫暖手繪插畫，一碗冒著熱氣的補湯放在木桌上，旁邊有圍巾與一杯熱茶，窗外是冬天的暖色光；柔和暖色調、療癒氛圍，留白給關懷文字，正方形。</pre></div><div class="note">⚠️ 生活關懷型，避免連結到商品銷售。</div><button class="copy" data-pid="ppwinter">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="情境故事圖" data-search="退休樂活情境 情境故事圖 溫暖寫實 退休 16:9"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">情境故事圖</div><h3>退休樂活情境</h3><div class="tags"><span class="tg">溫暖寫實</span><span class="tg">退休</span><span class="tg">16:9</span></div><div class="promptbox"><pre id="ppretire">溫暖的寫實風插畫，一對銀髮夫妻在公園長椅上喝咖啡、相視而笑，背景陽光柔和、樹影斑駁；幸福安心的氛圍、暖色調，16:9 橫幅。</pre></div><div class="note">⚠️ 正面情境、不用病床或孤老等恐懼畫面。</div><button class="copy" data-pid="ppretire">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="情境故事圖" data-search="三代同堂的責任 情境故事圖 溫馨插畫 家庭 ig方形"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">情境故事圖</div><h3>三代同堂的責任</h3><div class="tags"><span class="tg">溫馨插畫</span><span class="tg">家庭</span><span class="tg">IG方形</span></div><div class="promptbox"><pre id="ppfamily">溫馨插畫，三代同堂的全家福在明亮客廳裡，祖父母、爸媽與孩子一起，溫暖的午後燈光，洋溢愛與責任感；柔和色調，正方形 1:1。</pre></div><div class="note">⚠️ 以愛與責任出發，避免製造恐懼或愧疚。</div><button class="copy" data-pid="ppfamily">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="情境故事圖" data-search="長照陪伴的溫度 情境故事圖 溫暖插畫 長照 16:9"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">情境故事圖</div><h3>長照陪伴的溫度</h3><div class="tags"><span class="tg">溫暖插畫</span><span class="tg">長照</span><span class="tg">16:9</span></div><div class="promptbox"><pre id="pplongcare">溫暖插畫風，一位成年子女牽著年邁父母的手在灑滿陽光的居家窗邊散步，神情安心溫柔；柔和暖色、療癒氛圍，16:9 橫幅。</pre></div><div class="note">⚠️ 長照訴求用溫暖陪伴呈現，嚴禁血淋淋或恐嚇式畫面。</div><button class="copy" data-pid="pplongcare">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="活動宣傳" data-search="保單健診活動邀請卡 活動宣傳 活動卡 直式4:5 留白"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">活動宣傳</div><h3>保單健診活動邀請卡</h3><div class="tags"><span class="tg">活動卡</span><span class="tg">直式4:5</span><span class="tg">留白</span></div><div class="promptbox"><pre id="ppcheckup-event">專業簡約的活動邀請卡背景，聽診器與愛心結合的標誌、柔和的藍色漸層與幾何線條，大量留白給活動標題、時間、地點等資訊；信任、乾淨的商務質感，直式 4:5。</pre></div><div class="note">⚠️ 活動為服務性質；文案另加時不得出現保證、免費贈品誘導等違規字眼。</div><button class="copy" data-pid="ppcheckup-event">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="活動宣傳" data-search="增員說明會海報背景 活動宣傳 海報背景 直式4:5 招募"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">活動宣傳</div><h3>增員說明會海報背景</h3><div class="tags"><span class="tg">海報背景</span><span class="tg">直式4:5</span><span class="tg">招募</span></div><div class="promptbox"><pre id="pprecruit-event">現代商務海報背景，向上的箭頭、城市天際線剪影與一群人的團隊輪廓，活力的藍橙配色，大量留白給說明會資訊；積極向上、專業，直式 4:5。</pre></div><div class="note">⚠️ 增員訴求不得誇大收入或保證業績。</div><button class="copy" data-pid="pprecruit-event">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="增員招募" data-search="斜槓職涯願景 增員招募 扁平插畫 願景 16:9"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">增員招募</div><h3>斜槓職涯願景</h3><div class="tags"><span class="tg">扁平插畫</span><span class="tg">願景</span><span class="tg">16:9</span></div><div class="promptbox"><pre id="ppcareer">現代扁平插畫，一個人站在分岔路口，望向充滿可能性的城市天際線與朝陽，路標指向「成長、自由、團隊」；希望與成長感、藍橙配色，16:9 橫幅。</pre></div><div class="note">⚠️ 招募形象用，避免承諾具體收入。</div><button class="copy" data-pid="ppcareer">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="個人品牌" data-search="個人品牌金句背景 個人品牌 簡約背景 16:9 引言"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">個人品牌</div><h3>個人品牌金句背景</h3><div class="tags"><span class="tg">簡約背景</span><span class="tg">16:9</span><span class="tg">引言</span></div><div class="promptbox"><pre id="ppbrand-quote">簡約專業的引言圖背景，柔和的藍色漸層搭配細緻幾何線條，中央大面積留白可放置一句金句與業務員姓名；沉穩、有商務質感，16:9 橫幅。</pre></div><div class="note">⚠️ 金句不得出現保證、最高、穩賺等字眼。</div><button class="copy" data-pid="ppbrand-quote">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="個人品牌" data-search="專業形象頭貼風格 個人品牌 形象 頭貼 正方形"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">個人品牌</div><h3>專業形象頭貼風格</h3><div class="tags"><span class="tg">形象</span><span class="tg">頭貼</span><span class="tg">正方形</span></div><div class="promptbox"><pre id="ppavatar">簡潔專業的人像背景與光影風格參考圖（不含真人臉孔），柔和的棚拍光、乾淨的中性背景、商務正裝氛圍，適合作為保險業務員個人頭貼的構圖與打光參考；正方形 1:1。</pre></div><div class="note">⚠️ 真人頭貼請用本人真實照片，AI 僅供風格/打光參考，勿假造肖像。</div><button class="copy" data-pid="ppavatar">📋 複製提示詞</button></div></article>
+<article class="card" data-cat="情境故事圖" data-search="新生兒家庭保障 情境故事圖 溫馨插畫 新生兒 ig方形"><div class="thumb ph"><span>🎨</span><small>貼到 AI 即可生成<br>範例圖陸續補上</small></div><div class="body"><div class="ctag">情境故事圖</div><h3>新生兒家庭保障</h3><div class="tags"><span class="tg">溫馨插畫</span><span class="tg">新生兒</span><span class="tg">IG方形</span></div><div class="promptbox"><pre id="ppnewborn">溫馨柔和插畫，年輕父母溫柔地抱著新生寶寶，旁邊有嬰兒床與柔光小夜燈，洋溢初為父母的幸福與守護感；粉嫩暖色調，正方形 1:1。</pre></div><div class="note">⚠️ 以守護與喜悅出發，不用焦慮訴求。</div><button class="copy" data-pid="ppnewborn">📋 複製提示詞</button></div></article>
+</div>
+<section class="afeng"><div class="afeng-card">
+<img src="afeng.jpg" alt="阿峰老師">
+<div style="flex:1;min-width:240px"><div class="nm">阿峰老師（黃敬峰・AI峰哥）</div><div class="rl">企業 AI 實戰培訓專家</div>
+<div>「會用、懂用、好用、每天用」—— 想讓你的通訊處整批學會用 AI 做圖、寫話術、做健診？這套工具就是阿峰老師幫團隊做的其中一個。</div>
+<div class="ct"><a class="btn line" href="https://line.me/ti/g2/o6oRaGIHTzZ1nEofxnT9Rbv7_ZHAX-rylbJfKA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default" target="_blank" rel="noopener">💬 加入阿峰老師 LINE 社群</a><a class="btn primary" href="mailto:ai@autolab.cloud?subject=想聊聊團隊 AI 實戰內訓">跟阿峰老師聊聊內訓</a></div>
+<div style="color:var(--muted);font-weight:700;font-size:.82rem;margin-top:9px"><a href="mailto:ai@autolab.cloud" style="color:var(--accent);text-decoration:none">ai@autolab.cloud</a> ・ <a href="tel:0976715102" style="color:var(--accent);text-decoration:none">📞 0976-715-102</a> ・ <a href="https://line.me/ti/p/0976715102" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none">💬 LINE 0976715102</a></div></div>
+</div></section>
+</div></main>
+<footer><div class="wrap">保險業務 AI 做圖提示詞庫 ｜ 由 <a href="https://www.autolab.cloud" target="_blank" rel="noopener">阿峰老師（AI峰哥）</a> 企業 AI 培訓製作 ｜ 想要你單位專屬版？<a href="mailto:ai@autolab.cloud">聊聊</a></div></footer>
+<div class="toast" id="toast"></div>
+<script>
+const el=s=>document.querySelector(s);
+let cat='all';
+function applyFilter(){const q=(el('#q').value||'').trim().toLowerCase();document.querySelectorAll('.card').forEach(c=>{const okc=cat==='all'||c.dataset.cat===cat;const oks=!q||c.dataset.search.includes(q);c.style.display=(okc&&oks)?'':'none';});}
+el('#chips').addEventListener('click',e=>{const b=e.target.closest('.chip');if(!b)return;cat=b.dataset.c;document.querySelectorAll('.chip').forEach(x=>x.classList.toggle('on',x===b));applyFilter();});
+el('#q').addEventListener('input',applyFilter);
+function toast(m){const t=el('#toast');t.textContent=m;t.classList.add('show');clearTimeout(window._t);window._t=setTimeout(()=>t.classList.remove('show'),1900);}
+document.querySelectorAll('.copy').forEach(b=>b.addEventListener('click',async()=>{const txt=el('#'+b.dataset.pid).textContent;try{await navigator.clipboard.writeText(txt);}catch(_){const ta=document.createElement('textarea');ta.value=txt;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();}b.textContent='✓ 已複製！貼到 ChatGPT/Gemini';b.classList.add('ok');toast('✓ 已複製，貼到 AI 就能生圖');setTimeout(()=>{b.textContent='📋 複製提示詞';b.classList.remove('ok');},1900);}));
+</script>
+</body></html>
