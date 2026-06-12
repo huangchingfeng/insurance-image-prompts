@@ -61,19 +61,31 @@ def main():
         if img:
             hung += 1
         d["img"] = img
+        # 只上架「已成功生圖」的卡片；未生成的先不放（用戶指示：沒成功的先不要上）
+        if not img:
+            continue
         o = {}
         for full, mn in FULL2MIN.items():
             if full in d:
                 o[mn] = d[full]
         minified.append(o)
-    # 同步寫回 prompts_tw.json（img 欄位更新）
+    # 同步寫回 prompts_tw.json（img 欄位更新；保留全部 280 題供日後補生）
     json.dump(data, open(PROMPTS, "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
+    shown = len(minified)
+    shown_cats = len({o["c"] for o in minified})
+
+    def fix_counts(h):
+        h = re.sub(r"台灣版 \d+ 張", f"台灣版 {shown} 張", h)
+        h = re.sub(r"已生成示意圖 \d+ 張", f"已上架示意圖 {shown} 張", h)
+        h = re.sub(r"分 \d+ 類", f"分 {shown_cats} 類", h)
+        return h
+
     # 換進 tw/index.html
     html = open(HTML, encoding="utf-8").read()
     s, e = extract_data_span(html)
     arr = json.dumps(minified, ensure_ascii=False, separators=(",", ":"))
-    html = html[:s] + arr + html[e:]
+    html = fix_counts(html[:s] + arr + html[e:])
     open(HTML, "w", encoding="utf-8").write(html)
 
     # 同步產生「根 index.html」＝同一份完整畫廊，但圖片路徑指到 tw/imgs/，
@@ -84,8 +96,8 @@ def main():
     open(ROOT_INDEX, "w", encoding="utf-8").write(root_html)
 
     cats = len({d["category"] for d in data})
-    print(f"重建:{len(data)} 張 / {cats} 類 / 已掛圖 {hung} / 每頁 12 / 含燈箱"
-          f"（tw/index.html ＋ 根 index.html 同步）")
+    print(f"重建:全{len(data)}題 / 已生圖{hung} / 上架顯示{shown}張 / "
+          f"{shown_cats}類（tw + 根 index.html 同步，未生成的隱藏）")
 
 
 if __name__ == "__main__":
