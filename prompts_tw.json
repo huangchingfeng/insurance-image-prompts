@@ -25,7 +25,7 @@
   ],
   "prompt": "扁平向量插畫加柔和手繪線稿，低彩度療癒、溫潤水彩感，不要寫實照片、不要3D塑膠感。畫面：台灣阿嬤花白短髮、媽媽黑髮、小孫女三人擠在台式布沙發上共讀一本繪本，都是當代東亞臉孔、自然健康膚色、單眼皮或內雙、台灣日常居家服。背景台式磁磚客廳、不鏽鋼鐵窗花、牆上掛繁中農民曆、角落擺蝴蝶蘭盆栽。配色硬規則：背景牆一律乾淨柔白 #FAFCFD（明令 NOT cream, NOT beige, NOT yellow-tinted）；teal 定錨——阿嬤薄毯用亮 #00D4FF、媽媽上衣用沉穩 #00B4D8（至少2處清楚可見）；最深陰影與線條用深藍 #0A1628；暖色僅繪本封面一小塊紅 <15%。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。畫面左側留白約30%給文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "純陪伴情境，不放保額/理賠金額、不出現保單與保險公司商標。文字若有僅放溫馨陪伴，不含招攬。",
-  "img": ""
+  "img": "story-a-02.jpg"
  },
  {
   "id": "story-a-03",
@@ -39,7 +39,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風，柔和手繪線稿、低彩度療癒，不要寫實照片、不要3D塑膠感。畫面：台灣三代家庭圍坐餐桌吃台式早餐（豆漿、蛋餅、飯糰），阿公阿嬤花白短髮、爸媽黑髮、小孩，全是當代東亞臉孔、自然健康膚色、單眼皮或內雙、台灣居家便服。背景台式磁磚廚房、鋁窗外騎樓巷弄與機車剪影、牆上繁中月曆。配色硬規則：背景牆與天花板用乾淨淺青綠 #E3F2F4（明令 NOT cream, NOT beige, NOT yellow-tinted，留白禁止奶油黃）；teal 定錨——桌上保溫瓶與杯子用亮 #00D4FF、爸爸 polo 衫用沉穩 #00B4D8（至少2處清楚可見）；最深陰影與輪廓用深藍 #0A1628；暖色僅餐點點綴 <15%。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。畫面右側留白給文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "日常情境純溫暖，不含招攬文字、不出現保單/保額/保險商標。",
-  "img": ""
+  "img": "story-a-03.jpg"
  },
  {
   "id": "story-a-04",
@@ -67,7 +67,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風，柔和手繪線稿、低彩度療癒，不要寫實照片、不要3D塑膠感。畫面：台灣退休夫妻坐在社區公園木長椅上歇腳聊天，兩人花白短髮、自然健康膚色、單眼皮或內雙、當代台灣休閒穿著，東亞臉孔，先生手裡拿著保溫瓶。背景社區公園紅磚步道、土地公廟一角、發財樹與綠樹、不鏽鋼涼亭。配色硬規則：背景與天空用乾淨淺冷灰藍 #EAF0F3（明令 NOT cream, NOT beige, NOT yellow-tinted，大面積留白禁奶油黃）；teal 定錨——先生保溫瓶用亮 #00D4FF、太太薄外套用沉穩 #00B4D8（至少2處清楚可見）；最深陰影與輪廓用深藍 #0A1628；暖色僅土地公廟小紅燈籠 <15%。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。上方約30%留白給文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "退休從容情境純溫暖，不放保額/理賠金額、不出現保單與保險商標，不承諾固定收入。",
-  "img": ""
+  "img": "story-a-05.jpg"
  },
  {
   "id": "story-a-06",
@@ -81,7 +81,7 @@
   ],
   "prompt": "扁平向量插畫加柔和手繪線稿，低彩度療癒、溫潤水彩感，不要寫實照片、不要3D塑膠感。畫面：台灣退休夫妻清晨在社區公園紅磚廣場打太極伸展，兩人花白短髮、自然健康膚色、單眼皮或內雙、當代台灣運動服，東亞臉孔，神情舒展。背景公園綠樹、不鏽鋼健身設施、遠方公寓大樓與台北101剪影（不要歐洲）、晨間散步的鄰居。配色硬規則：天空用乾淨淺青綠 #E3F2F4（明令 NOT cream, NOT beige, NOT yellow-tinted）；teal 定錨——先生運動上衣用沉穩 #00B4D8、太太隨身毛巾與水壺用亮 #00D4FF（至少2處清楚可見）；最深陰影與線條用深藍 #0A1628；暖色僅遠處朝陽光點 <15%。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。畫面一側留白給文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "健康活力情境純溫暖，不放保額理賠數字、不出現保險商標，不用恐懼訴求。",
-  "img": ""
+  "img": "story-a-06.jpg"
  },
  {
   "id": "story-a-07",
@@ -109,7 +109,7 @@
   ],
   "prompt": "扁平向量插畫加柔和手繪線稿，低彩度療癒、溫潤水彩感，不要寫實照片、不要3D塑膠感、不要病弱悲情。畫面：台灣成年兒子黑髮陪伴年長父親花白短髮，兩人坐在台式客廳鋁窗邊的藤椅喝茶、輕鬆聊天，東亞臉孔、自然健康膚色、單眼皮或內雙、當代台灣居家便服，氛圍從容溫暖。背景台式磁磚客廳、不鏽鋼鐵窗花、窗外騎樓巷弄、繁中月曆、發財樹。配色硬規則：背景牆用乾淨淺冷灰藍 #EAF0F3（明令 NOT cream, NOT beige, NOT yellow-tinted）；teal 定錨——茶壺與茶杯用亮 #00D4FF、兒子上衣用沉穩 #00B4D8（至少2處清楚可見）；最深陰影與線條用深藍 #0A1628；暖色僅茶湯與窗外小招牌 <15%。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。畫面一側留白給文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "長照陪伴以溫暖日常呈現，禁病床/孤老/留債恐懼訴求；不放保額理賠、不出現保險商標與保單。",
-  "img": ""
+  "img": "story-a-08.jpg"
  },
  {
   "id": "story-a-09",
@@ -123,7 +123,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風，柔和手繪線稿、低彩度療癒，不要寫實照片、不要3D塑膠感、不要病弱悲情。畫面：台灣中年女兒黑髮在台式廚房幫年長母親花白短髮一起備餐切菜，母親坐在小凳上微笑遞食材，兩人東亞臉孔、自然健康膚色、單眼皮或內雙、當代台灣家居圍裙便服，氛圍溫暖協力。背景台式磁磚廚房、鋁窗、不鏽鋼瀝水架、牆上繁中月曆與紅色平安符。配色硬規則：背景磚牆用乾淨柔白 #FAFCFD（明令 NOT cream, NOT beige, NOT yellow-tinted，留白禁奶油黃）；teal 定錨——女兒圍裙用沉穩 #00B4D8、流理台保溫瓶用亮 #00D4FF（至少2處清楚可見）；最深陰影與輪廓用深藍 #0A1628；暖色僅蔬果與平安符紅 <15%。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。上方約30%留白給文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "居家照護以溫暖協力呈現，禁病床/血淋淋/孤老恐懼訴求；不放保額理賠金額、不出現保單與保險商標。",
-  "img": ""
+  "img": "story-a-09.jpg"
  },
  {
   "id": "story-a-10",
@@ -137,7 +137,7 @@
   ],
   "prompt": "扁平向量插畫加柔和手繪線稿，低彩度療癒、溫潤水彩感，不要寫實照片、不要3D塑膠感。畫面：台灣三代家庭在公寓陽台一起照顧盆栽，阿嬤花白短髮教小孫子澆花、媽媽黑髮在旁微笑，全是當代東亞臉孔、自然健康膚色、單眼皮或內雙、台灣居家便服。背景鋁窗陽台、不鏽鋼鐵窗花、蝴蝶蘭與發財樹盆栽、遠方公寓社區與台北101剪影（不要歐洲）。配色硬規則：天空與牆面用乾淨淺青綠 #E3F2F4（明令 NOT cream, NOT beige, NOT yellow-tinted，留白禁奶油黃）；teal 定錨——澆花壺用亮 #00D4FF、媽媽上衣用沉穩 #00B4D8（至少2處清楚可見）；最深陰影與線條用深藍 #0A1628；暖色僅花朵與小孫子帽子 <15%。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。畫面一側留白給文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "生活日常情境純溫暖，不含招攬文字、不放保額理賠、不出現保單與保險公司商標。",
-  "img": ""
+  "img": "story-a-10.jpg"
  },
  {
   "id": "story-b-01",
@@ -165,7 +165,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:一位當代台灣年輕爸爸——黑髮短髮、自然健康膚色、內雙、家居 T 恤——在台式廚房料理檯前單手抱著襁褓中的寶寶,另一手溫柔搖晃奶瓶,神情專注溫暖。爸爸穿沉穩品牌青綠 #00B4D8 短袖,流理檯上有亮青綠 #00D4FF 的杯子與奶瓶架,窗框漆成亮青綠 #00D4FF,至少兩處 teal 清楚可見。背景牆面與磁磚用柔白 #FAFCFD(NOT cream, NOT beige, NOT yellow-tinted),窗外是台灣公寓騎樓與機車剪影,牆角放發財樹,最深陰影用深藍 #0A1628。暖色僅奶瓶內牛奶做極小點綴 <15%。soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。構圖:畫面上方約30%留白給繁中文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:呈現新手爸爸照顧日常的溫暖陪伴感,不放保額/理賠數字、不出現保險公司商標商品名或保單。禁用保證/穩賺/絕對等字。預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "story-b-02.jpg"
  },
  {
   "id": "story-b-03",
@@ -179,7 +179,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:台式磁磚客廳布沙發場景,一對當代台灣年輕爸媽——黑髮、自然健康膚色、單眼皮或內雙、日常穿著——抱著新生兒,對面坐著一位親切的台灣保險業務員(黑髮、得體襯衫),桌上攤開一本筆記本與平板,氣氛溫暖像在閒聊規劃未來。媽媽穿沉穩品牌青綠 #00B4D8 上衣,茶几上有亮青綠 #00D4FF 保溫瓶與筆記本封套,至少兩處 teal 清楚可見。背景牆面用淺青綠 #E3F2F4(NOT cream, NOT beige, NOT yellow-tinted),牆上有繁中月曆、神明桌一角(觀音)、蝴蝶蘭,窗為鋁窗,最深陰影用深藍 #0A1628。暖色僅沙發抱枕一角極小點綴 <15%。soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。構圖:16:9 右側留白給繁中文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:桌面筆記本不出現任何保額/理賠金額、保險公司商標或商品名、保單封面。以溫暖規劃陪伴呈現,禁用保證/最高/節稅等字。業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "story-b-03.jpg"
  },
  {
   "id": "story-b-04",
@@ -193,7 +193,7 @@
   ],
   "prompt": "扁平向量插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:一對當代台灣年輕夫妻——黑髮、自然健康膚色、單眼皮或內雙、休閒穿著——站在預售屋實品屋樣品空間裡,牽手抬頭看著嶄新的空房,臉上是對成家的期待。先生穿沉穩品牌青綠 #00B4D8 襯衫,太太手提袋是亮青綠 #00D4FF,牆角立著一塊亮青綠 #00D4FF 的格局示意板,至少兩處 teal 清楚可見。背景空間牆面用柔白 #FAFCFD(NOT cream, NOT beige, NOT yellow-tinted),落地鋁窗外是台北 101 剪影(不要紐約/歐洲),牆邊一株發財樹,最深陰影用深藍 #0A1628。暖色僅木地板紋理做極小點綴 <15%。soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。構圖:16:9 左側留白給繁中文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:呈現成家期待的溫暖情境,不出現保額/房貸金額、保險公司商標商品名或保單。禁用保證/最高/穩賺等字。預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "story-b-04.jpg"
  },
  {
   "id": "story-b-05",
@@ -207,7 +207,7 @@
   ],
   "prompt": "扁平向量插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:預售屋接待中心桌前,一對當代台灣年輕夫妻——黑髮、自然健康膚色、內雙、得體休閒穿著——並肩坐著,手握筆慎重地看著桌上的合約文件,神情認真而踏實。太太穿沉穩品牌青綠 #00B4D8 上衣,桌上放亮青綠 #00D4FF 的資料夾與馬克杯,接待人員背後立著亮青綠 #00D4FF 建案模型底座,至少兩處 teal 清楚可見。背景牆面用淺冷灰藍 #EAF0F3(NOT cream, NOT beige, NOT yellow-tinted),牆上掛繁中月曆,旁有蝴蝶蘭,最深陰影與文件線稿用深藍 #0A1628。暖色僅一支筆做極小點綴 <15%。soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。構圖:畫面上方約30%留白給繁中文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:合約文件不顯示任何具體金額、不出現保險公司商標商品名或保單,呈現的是購屋簽約情境。禁用保證/穩賺/絕對等字。業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "story-b-05.jpg"
  },
  {
   "id": "story-b-06",
@@ -221,7 +221,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:一對當代台灣年輕夫妻——黑髮、自然健康膚色、單眼皮或內雙、居家休閒穿著——並肩站在新成屋陽台,靠著欄杆遠眺城市,氣氛安定有盼頭。先生穿沉穩品牌青綠 #00B4D8 帽 T,陽台欄杆漆亮青綠 #00D4FF,旁邊小桌放亮青綠 #00D4FF 茶杯,至少兩處 teal 清楚可見。背景天空用淺青綠 #E3F2F4(NOT cream, NOT beige, NOT yellow-tinted),遠處是台灣城市天際線與台北 101 剪影(不要紐約/歐洲),陽台角落放蝴蝶蘭盆栽,最深陰影用深藍 #0A1628。暖色僅遠方一兩盞窗燈做極小點綴 <15%。soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。構圖:畫面上方約30%留白給繁中文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:呈現成家後對未來的踏實安心感,不出現保額/房貸數字、保險公司商標商品名或保單。禁用保證/最高/穩賺/避稅等字。預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "story-b-06.jpg"
  },
  {
   "id": "story-b-07",
@@ -235,7 +235,7 @@
   ],
   "prompt": "扁平向量插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感、不要血淋淋或意外畫面。畫面:一位當代台灣上班族——黑髮、自然健康膚色、內雙、穿著輕便雨衣戴安全帽——騎著機車停在台灣巷弄紅綠燈前等待,旁邊是騎樓與便利商店招牌,呈現平凡通勤的提醒感而非恐懼。騎士的雨衣是沉穩品牌青綠 #00B4D8,安全帽貼亮青綠 #00D4FF 反光條,機車後照鏡掛亮青綠 #00D4FF 小掛飾,至少兩處 teal 清楚可見。背景天空與街景用淺冷灰藍 #EAF0F3(NOT cream, NOT beige, NOT yellow-tinted),遠處鐵窗花公寓,最深陰影用深藍 #0A1628。暖色僅紅綠燈一盞做極小點綴 <15%。soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。構圖:16:9 右側留白給繁中文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:以日常通勤情境溫和提醒,不用恐懼訴求、不出現車禍/血淋淋畫面。不放保額/理賠金額、保險公司商標商品名或保單。禁用保證/一定賠/絕對等字。署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "story-b-07.jpg"
  },
  {
   "id": "story-b-08",
@@ -249,7 +249,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:一位當代台灣年輕上班族——黑髮、自然健康膚色、單眼皮或內雙、襯衫加薄外套——站在公寓樓下騎樓的機車旁,低頭仔細扣好安全帽帶,呈現出門前的安全小習慣與從容。外套是沉穩品牌青綠 #00B4D8,安全帽是亮青綠 #00D4FF,機車旁掛著亮青綠 #00D4FF 通勤包,至少兩處 teal 清楚可見。背景騎樓牆面用柔白 #FAFCFD(NOT cream, NOT beige, NOT yellow-tinted),旁有便利商店玻璃門、不鏽鋼鐵窗花與一株發財樹,最深陰影用深藍 #0A1628。暖色僅便利商店招牌一角做極小點綴 <15%。soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。構圖:畫面上方約30%留白給繁中文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:以正向安全習慣呈現,不用恐懼訴求、不出現意外或受傷畫面。不放保額/理賠金額、保險公司商標商品名或保單。禁用保證/絕對/一定賠等字。署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "story-b-08.jpg"
  },
  {
   "id": "story-b-09",
@@ -263,7 +263,7 @@
   ],
   "prompt": "扁平向量插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:一位當代台灣上班族——黑髮、自然健康膚色、內雙、上班襯衫——在公司樓下停好機車、提下安全帽,抬頭看向辦公大樓,呈現順利抵達、平安開工的日常安心感。襯衫外搭沉穩品牌青綠 #00B4D8 背包,安全帽是亮青綠 #00D4FF,機車置物箱貼亮青綠 #00D4FF 貼紙,至少兩處 teal 清楚可見。背景街景與天空用淺青綠 #E3F2F4(NOT cream, NOT beige, NOT yellow-tinted),背景有台灣社區公園紅磚步道、土地公廟一角與台北 101 剪影(不要紐約/歐洲),最深陰影用深藍 #0A1628。暖色僅土地公廟紅燈籠一盞做極小點綴 <15%。soft natural daylight, neutral-to-cool ~5200K, no warm yellow color cast。構圖:16:9 左側留白給繁中文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:以平安抵達、安心開工的正向情境呈現,不用恐懼訴求。不放保額/理賠金額、保險公司商標商品名或保單。禁用保證/最高/絕對等字。署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "story-b-09.jpg"
  },
  {
   "id": "story-b-10",
@@ -277,7 +277,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感、不要夜晚過暖黃濾鏡。畫面:一對當代台灣雙薪年輕夫妻——黑髮、自然健康膚色、單眼皮或內雙、都會休閒穿著、都戴安全帽——共乘一台機車停在巷口便利商店前,後座太太雙手環抱先生,呈現下班相伴回家的溫馨。先生雨衣外套沉穩品牌青綠 #00B4D8,兩頂安全帽其一是亮青綠 #00D4FF,機車掛亮青綠 #00D4FF 保溫瓶,至少兩處 teal 清楚可見。背景街景牆面用淺冷灰藍 #EAF0F3(NOT cream, NOT beige, NOT yellow-tinted),背景有台灣巷弄、機車、鐵窗花公寓與便利商店冷白招牌光,最深陰影用深藍 #0A1628。暖色僅便利商店門口一盞燈做極小點綴 <15%。soft natural daylight 偏冷 ~5200K, no warm yellow color cast。構圖:畫面上方約30%留白給繁中文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:以雙薪家庭相伴回家的溫暖情境呈現,不用恐懼訴求。不放保額/理賠金額、保險公司商標商品名或保單。禁用保證/穩賺/絕對等字。署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "story-b-10.jpg"
  },
  {
   "id": "story-c-01",
@@ -291,7 +291,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:一位當代台灣外送員——黑髮、自然健康膚色、單眼皮、戴安全帽穿輕便雨衣,牽著機車停在台灣騎樓巷弄的紅綠燈路口,背景有便利商店招牌剪影與機車陣。當代台灣日常場景,排除歐美白人臉、金髮、立體深輪廓、旗袍唐裝。配色硬規則:背景天空與牆面用乾淨淺冷灰藍 #EAF0F3,大面積留白禁止奶油黃。品牌青綠 teal 定錨——外送員雨衣用沉穩 #00B4D8,保溫外送箱與安全帽反光條用亮 #00D4FF,至少兩處清楚可見;深藍 #0A1628 作最深陰影。暖色只能小面積點綴 <15%(便利商店燈牌一點暖光)。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。構圖上方約30%留白放繁體中文標題或留空。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:溫暖陪伴職業關懷,不用恐懼訴求、無病床血淋淋畫面;不出現具體保額或理賠金額、不出現保險公司商標商品名保單鈔票;若預留業務員署名須標所屬公司全名+業務員登錄字號;文字只放關懷語不含招攬,禁字保證/最高/第一/穩賺等。",
-  "img": ""
+  "img": "story-c-01.jpg"
  },
  {
   "id": "story-c-02",
@@ -305,7 +305,7 @@
   ],
   "prompt": "扁平向量插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:一位花白短髮、自然健康膚色、內雙眼的當代台灣計程車司機,穿日常 polo 衫,清晨在社區公園紅磚步道旁的小黃計程車前,手扶車門做出發前伸展,背景有台灣行道樹與台北101淡淡剪影(不要紐約歐洲)。排除歐美白人臉、金髮、立體深輪廓、旗袍唐裝漢服。配色硬規則:背景天空與牆面用乾淨柔白 #FAFCFD,大面積留白禁止奶油黃米色。品牌青綠 teal 定錨——司機 polo 衫用沉穩 #00B4D8,車內掛飾與保溫瓶用亮 #00D4FF,至少兩處清楚可見;深藍 #0A1628 作最深陰影與線稿。暖色只能小面積點綴 <15%(清晨天邊一抹暖)。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow color cast。16:9 一側大量留白放繁中標題或留空。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:正向健康職業日常,溫暖不恐懼;不出現具體保額理賠金額、不出現保險公司商標商品名保單鈔票特寫;業務員署名須標所屬公司全名+業務員登錄字號;禁字保證/最高/第一/唯一/穩賺/節稅/避稅/絕對/保本/無風險。",
-  "img": ""
+  "img": "story-c-02.jpg"
  },
  {
   "id": "story-c-03",
@@ -319,7 +319,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:一位當代台灣外送員爸爸——黑髮、自然健康膚色、單眼皮,卸下安全帽剛回到家,在台式磁磚客廳的布沙發旁蹲下擁抱跑來迎接的小孩,背景有發財樹與繁中月曆掛牆、鋁窗。當代台灣居家日常,排除歐美白人臉、金髮、立體深輪廓、旗袍唐裝漢服。配色硬規則:背景牆面用乾淨淺青綠 #E3F2F4,大面積留白禁止奶油黃。品牌青綠 teal 定錨——爸爸外送制服用沉穩 #00B4D8,牆上時鐘與孩子水壺用亮 #00D4FF,至少兩處清楚可見;深藍 #0A1628 作最深陰影。暖色只能小面積點綴 <15%(沙發抱枕一點暖)。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。構圖上方約30%留白放繁中標題或留空。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:溫暖家庭陪伴訴求,不以恐懼或留債威脅;不出現具體保額理賠金額、無保險公司商標商品名保單鈔票;業務員署名須標所屬公司全名+業務員登錄字號;禁字保證/最高/第一/穩賺/穩成交/絕對/保本/無風險。",
-  "img": ""
+  "img": "story-c-03.jpg"
  },
  {
   "id": "story-c-04",
@@ -333,7 +333,7 @@
   ],
   "prompt": "扁平向量插畫、柔和手繪線稿、低彩度療癒風,不要寫實照片、不要3D塑膠感。畫面:一位花白短髮、自然健康膚色、內雙眼的當代台灣中年五金行老闆,穿圍裙站在台式店面騎樓門口,身後是不鏽鋼鐵窗花與整齊貨架、紅色平安符貼門框。當代台灣傳產日常,排除歐美白人臉、金髮、立體深輪廓、旗袍唐裝漢服。配色硬規則:背景牆面用乾淨淺冷灰藍 #EAF0F3,大面積留白禁止奶油黃米色。品牌青綠 teal 定錨——老闆圍裙用沉穩 #00B4D8,店面遮雨棚與招牌底用亮 #00D4FF,至少兩處清楚可見;深藍 #0A1628 作最深陰影與線稿。暖色只能小面積點綴 <15%(平安符紅一小塊)。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow color cast。16:9 一側大量留白放繁中標題或留空。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:正向中小企業主形象,不恐懼訴求;不出現具體保額理賠金額、無保險公司商標商品名保單鈔票;不涉及節稅避稅字眼;業務員署名須標所屬公司全名+業務員登錄字號;禁字保證/最高/第一/唯一/穩賺/節稅/避稅/絕對/保本/無風險。",
-  "img": ""
+  "img": "story-c-04.jpg"
  },
  {
   "id": "story-c-05",
@@ -2993,7 +2993,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風，柔和手繪線稿、低彩度療癒感，不要寫實照片、不要3D塑膠感。直式親子DIY聯誼邀請卡：明亮的活動教室裡，幾組當代台灣親子（黑髮父母與孩童、自然健康膚色、當代日常穿著，一位媽媽穿品牌青綠 #00B4D8 圍裙）圍著長桌一起做手作植栽與彩繪杯墊，桌上散放亮青綠 #00D4FF 的顏料罐、水杯與小盆發財樹（teal 定錨至少2處清楚可見），孩子們開心專注。背景牆面乾淨冷中性柔白 #FAFCFD 配淺冷灰藍 #EAF0F3，旁有鋁窗與社區公園紅磚步道剪影點綴台灣感，明令 NOT cream, NOT beige, NOT yellow-tinted；深藍 #0A1628 作文字與最深陰影。暖色僅彩繪顏料數抹 <15%。soft natural daylight 約5200K。上方留白約30%放繁體中文「親子手作聯誼日 邀您同樂」與日期。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規：純客戶聯誼同樂活動，文字僅邀約與祝福不含招攬與商品名，不放金額數字與保單特寫。無禁字。業務員署名須標所屬公司全名＋登錄字號。",
-  "img": ""
+  "img": "event-a-09.jpg"
  },
  {
   "id": "event-a-10",
@@ -3007,7 +3007,7 @@
   ],
   "prompt": "扁平向量插畫風，乾淨幾何、柔和手繪線稿、低彩度，不要寫實照片、不要3D感。方形客戶聯誼社群卡：台灣社區公園草地上的親子野餐情境，幾組當代台灣家庭（黑髮父母與孩童、自然膚色、當代日常穿著，一位爸爸穿品牌青綠 #00B4D8 短袖）鋪上野餐墊共享輕食，墊上有亮青綠 #00D4FF 的保溫瓶與野餐籃與小風箏（teal 定錨至少2處清楚可見），孩子在紅磚步道旁奔跑放風箏。背景天空乾淨冷中性淺青綠 #E3F2F4 配柔白 #FAFCFD，遠處台北101剪影（不要歐洲）與綠樹，明令 NOT cream, NOT beige；深藍 #0A1628 作文字與陰影。暖色僅野餐籃內水果數點 <15%。soft natural daylight, neutral-to-cool 約5200K。畫面上方約30%留白放繁體中文「親子野餐聯誼 一起來放鬆」與日期。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規：純客戶聯誼放鬆活動，文字僅邀約與祝福不含招攬與商品名，不放金額數字與保單特寫，不用恐懼訴求。無禁字。業務員署名須標所屬公司全名＋登錄字號。",
-  "img": ""
+  "img": "event-a-10.jpg"
  },
  {
   "id": "event-b-01",
@@ -3021,7 +3021,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒感,不要寫實照片、不要3D塑膠感。畫面下方一位當代台灣女性——黑色短髮、自然健康膚色、單眼皮、穿沉穩青綠 teal #00B4D8 針織上衣,坐在台式布沙發前對著筆電鏡頭微笑準備開直播,桌上放亮青綠 #00D4FF 保溫瓶,鋁窗透進柔和自然光。背景牆面用乾淨淺冷灰藍 #EAF0F3,務必 NOT cream, NOT beige, NOT yellow-tinted。深藍 #0A1628 作最深陰影與「LINE 群組」文字。光線 soft natural daylight, neutral-to-cool 約5200K,no warm yellow cast。畫面上方留約30%負空間放標題「線上說明會 今晚開播」與倒數字樣,teal 圓形播放鈕點綴。暖色僅限筆電螢幕微光 <15%。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:純活動宣傳不放保額/理賠金額,不出現保險公司商標/商品名/保單。標題避開保證/最高/第一/唯一。若預留業務員署名,須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "event-b-01.jpg"
  },
  {
   "id": "event-b-02",
@@ -3035,7 +3035,7 @@
   ],
   "prompt": "乾淨幾何扁平向量插畫風、無人物觀念圖卡、低彩度療癒、不要寫實照片、不要3D塑膠感。近白底 #FDFEFE 搭大量負空間,中央一台扁平筆電插畫螢幕上有單一 teal #00D4FF 線上會議視窗圖形與播放三角,旁邊散落極簡 teal 耳機、日曆與發財樹小盆栽圖示。整體零暖色,深藍 #0A1628 作標題文字「線上理財講座 開放報名」與重點線條。背景可在角落帶一抹淺青綠 #E3F2F4 弧形區塊,明令 NOT cream, NOT beige, NOT yellow-tinted。teal 至少兩處清楚可見(螢幕視窗+耳機)。下方留白放報名 QR 區與日期。光線 neutral-to-cool 均勻打光。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:活動圖卡不含具體保額/理賠數字、不放保單/鈔票特寫。文字避開穩賺/保證/節稅等禁字。預留業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "event-b-02.jpg"
  },
  {
   "id": "event-b-03",
@@ -3049,7 +3049,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒,不要寫實照片、不要3D塑膠感。畫面中一群當代台灣客戶——黑髮與花白短髮長者、自然健康膚色、單眼皮或內雙、當代台灣日常穿著,在明亮社區活動空間裡舉杯互相微笑致意,其中一位穿沉穩青綠 teal #00B4D8 外套,旁邊有亮青綠 #00D4FF 緞帶與獎座插畫點綴。背景牆面用乾淨柔白 #FAFCFD,鋁窗透進柔和日光與蝴蝶蘭擺飾,務必 NOT cream, NOT beige, NOT yellow-tinted。深藍 #0A1628 作最深陰影與文字。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。上方約30%負空間放「年度客戶答謝會 誠摯邀請」。暖色僅獎座金邊小面積 <15%。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:答謝邀請純感謝氛圍,不放具體保額/理賠金額、不出現保險公司商標/商品名/保單。文字避開第一/唯一/保證。預留業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "event-b-03.jpg"
  },
  {
   "id": "event-b-04",
@@ -3063,7 +3063,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒,不要寫實照片、不要3D塑膠感。畫面一位資深台灣男性講者——花白短髮、自然健康膚色、內雙、穿沉穩青綠 teal #00B4D8 西裝外套,站在簡約講台旁親切手勢說明,身旁有亮青綠 #00D4FF 翻頁板與三代同堂家庭剪影插畫(祖父母、父母、孩子)象徵世代傳承。背景牆面用淺冷灰藍 #EAF0F3,擺一盆發財樹,務必 NOT cream, NOT beige, NOT yellow-tinted。深藍 #0A1628 作最深陰影與標題「家業傳承與稅務規劃講座」。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。一側留白放日期地點。暖色僅家庭剪影暖點 <15%。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:傳承稅務為主題,文字嚴禁節稅/避稅,改用中性詞如「稅務規劃」「資產傳承」。不放具體保額/理賠金額、不出現保單/商品名。預留業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "event-b-04.jpg"
  },
  {
   "id": "event-b-05",
@@ -3077,7 +3077,7 @@
   ],
   "prompt": "乾淨幾何扁平向量插畫風、無人物資訊圖卡、低彩度療癒、不要寫實照片、不要3D塑膠感。近白底 #FDFEFE 搭大量負空間,中央以單一 teal #00D4FF 線條畫出三層階梯流程圖象徵世代傳遞,搭配極簡屋頂、文件夾與發財樹圖示,全部 teal 線描。深藍 #0A1628 作標題文字「資產傳承座談 開放報名」與階段標號。背景角落帶淺青綠 #E3F2F4 幾何弧形,整體零暖色,明令 NOT cream, NOT beige, NOT yellow-tinted。teal 至少兩處清楚可見。下方大量留白放報名資訊與場次。光線 neutral-to-cool 均勻平光。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:資訊圖卡不含保額/理賠數字、不放保單/商品名/商標。文字避開節稅/避稅/保證/穩賺等禁字。預留業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "event-b-05.jpg"
  },
  {
   "id": "event-b-06",
@@ -3091,7 +3091,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒,不要寫實照片、不要3D塑膠感。畫面一位當代台灣女性業務——黑色及肩髮、自然健康膚色、單眼皮、穿沉穩青綠 teal #00B4D8 套裝,在明亮會議空間旁站立微笑,手邊有亮青綠 #00D4FF 簡報架與一個未標示品牌的中性禮盒插畫象徵新方案登場。背景牆面用柔白 #FAFCFD,鋁窗透進柔和日光、蝴蝶蘭點綴,務必 NOT cream, NOT beige, NOT yellow-tinted。深藍 #0A1628 作最深陰影與標題「新方案說明會 誠摯邀請」。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。上方約30%負空間放日期地點。暖色僅禮盒緞帶小點 <15%。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:不揭露具體商品名/保額/理賠金額、不出現保險公司商標、不放保單特寫,以中性「新方案」呈現。文字避開保證/最高/第一/唯一。預留業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "event-b-06.jpg"
  },
  {
   "id": "event-b-07",
@@ -3105,7 +3105,7 @@
   ],
   "prompt": "乾淨幾何扁平向量插畫風搭少量手繪線稿、低彩度療癒、不要寫實照片、不要3D塑膠感。橫幅左側一位當代台灣男性——黑色短髮、自然健康膚色、內雙、穿沉穩青綠 teal #00B4D8 襯衫,在簡約舞台前以親切手勢介紹,身後是亮青綠 #00D4FF 簡報大屏與抽象上升折線圖形(不含任何數字金額)。背景用淺冷灰藍 #EAF0F3 大面牆,擺發財樹,務必 NOT cream, NOT beige, NOT yellow-tinted。深藍 #0A1628 作陰影與右側標題「新方案發表會」文字區。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。右側一側留白放日期、地點、報名資訊。暖色點綴 <15%。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:橫幅折線圖純抽象不標報酬率/保額/理賠數字,不放商品名/商標/保單。文字避開保證/穩賺/最高。預留業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "event-b-07.jpg"
  },
  {
   "id": "event-b-08",
@@ -3119,7 +3119,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒,不要寫實照片、不要3D塑膠感。畫面三位當代台灣女性——黑髮與花白短髮、自然健康膚色、單眼皮或內雙、當代台灣日常穿著,圍坐在台式布沙發旁邊喝茶邊翻筆記本親切交流,其中一位穿沉穩青綠 teal #00B4D8 罩衫,桌上有亮青綠 #00D4FF 茶杯與蝴蝶蘭。背景牆面用淺青綠 #E3F2F4,鋁窗透進柔和日光,務必 NOT cream, NOT beige, NOT yellow-tinted。深藍 #0A1628 作最深陰影與標題「女性理財沙龍 溫暖相聚」。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。上方約30%負空間放日期地點。暖色僅花卉小點 <15%。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:沙龍邀請純交流氛圍,不放具體保額/理賠金額、不出現商品名/保單/商標。文字避開保證/穩賺/第一。預留業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "event-b-08.jpg"
  },
  {
   "id": "event-b-09",
@@ -3133,7 +3133,7 @@
   ],
   "prompt": "乾淨幾何扁平向量插畫風搭少量水彩淡塗、低彩度療癒、不要寫實照片、不要3D塑膠感。正方構圖下方一位當代台灣女性——黑色短髮、自然健康膚色、單眼皮、穿沉穩青綠 teal #00B4D8 上衣,手捧亮青綠 #00D4FF 茶杯微笑,旁邊極簡蝴蝶蘭與筆記本圖示。背景牆面用柔白 #FAFCFD 大面留白,務必 NOT cream, NOT beige, NOT yellow-tinted。深藍 #0A1628 作文字「女性理財下午茶 歡迎報名」。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。上方約30%負空間放標題與報名連結,teal 至少兩處清楚可見(上衣+茶杯)。暖色點綴 <15%。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:社群報名卡不含保額/理賠數字、不放保單/商品名/商標。文字避開保證/穩賺/最高/唯一。預留業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "event-b-09.jpg"
  },
  {
   "id": "event-b-10",
@@ -3147,7 +3147,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風搭少量扁平向量、低彩度療癒,不要寫實照片、不要3D塑膠感。畫面一位當代台灣女性主持人——黑色及肩髮、自然健康膚色、內雙、穿沉穩青綠 teal #00B4D8 上衣,在筆電鏡頭前微笑揮手主持線上答謝直播,螢幕邊框是亮青綠 #00D4FF,旁邊有 teal 緞帶與小獎座插畫、發財樹盆栽。背景牆面用淺冷灰藍 #EAF0F3,鋁窗透進柔和日光,務必 NOT cream, NOT beige, NOT yellow-tinted。深藍 #0A1628 作最深陰影與「線上客戶答謝 直播感恩」文字。光線 soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。上方約30%負空間放標題與直播時間,直立限動構圖。暖色僅獎座金邊與螢幕微光 <15%。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:線上答謝純感謝氛圍,不放具體保額/理賠金額、不出現商品名/保單/商標。文字避開保證/第一/唯一。預留業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "event-b-10.jpg"
  },
  {
   "id": "recruit-a-01",
@@ -3175,7 +3175,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒。畫面一位當代台灣四十歲媽媽坐在台式磁磚客廳的布沙發上，黑色綁低馬尾、自然膚色、內雙，穿沉穩青綠 #00B4D8 針織上衣，膝上放筆電專注微笑工作；旁邊小孩在地墊上玩耍。窗邊是不鏽鋼鐵窗花與一盆蝴蝶蘭，茶几上放一只亮青綠 #00D4FF 馬克杯、沙發披一條 #00D4FF 薄毯，青綠至少兩處清楚可見。牆面用乾淨柔白 #FAFCFD，最深陰影用深藍 #0A1628，暖色僅木地板小面積點綴 <15%。soft natural daylight from window, neutral-to-cool ~5200K。畫面上方約30%留白給文字。NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "增員主題，強調彈性工作氛圍而非承諾收入；不出現保單/保險公司商標/鈔票，不以被動收入號召。溫暖陪伴調性，無招攬文字。",
-  "img": ""
+  "img": "recruit-a-02.jpg"
  },
  {
   "id": "recruit-a-03",
@@ -3189,7 +3189,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒。畫面一位當代台灣五十多歲男性，花白短髮、自然健康膚色、神情堅定溫和，穿沉穩青綠 #00B4D8 立領外套，站在社區公園紅磚步道旁，背後有發財樹與土地公廟一角，畫面傳達轉換跑道、重啟人生的從容。他手提一只亮青綠 #00D4FF 保溫瓶、胸前掛一副 #00D4FF 鏡腳眼鏡，青綠兩處清楚可見。背景天空與牆面用淺青綠 #E3F2F4，最深陰影用深藍 #0A1628，紅磚暖色僅小面積 <15%。soft natural daylight, neutral-to-cool ~5200K。畫面右側保留一側留白給文字。NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "增員主題，呈現第二人生正向氛圍；不出現保險公司商標/商品名/保單/鈔票，不承諾固定收入、不以財富自由號召，無招攬文字。",
-  "img": ""
+  "img": "recruit-a-03.jpg"
  },
  {
   "id": "recruit-a-04",
@@ -3203,7 +3203,7 @@
   ],
   "prompt": "扁平向量插畫風、乾淨幾何、柔和手繪線稿、低彩度療癒。畫面五位當代台灣不同年齡的夥伴並肩站成一排，黑髮或花白短髮、自然健康膚色、單眼皮或內雙、當代台灣日常上班穿著，臉上自然微笑，氛圍像團隊大合照。其中兩位穿沉穩青綠 #00B4D8 上衣，一人手拿亮青綠 #00D4FF 資料夾、一人別著 #00D4FF 名牌，青綠多處清楚可見。背景牆面用乾淨淺冷灰藍 #EAF0F3 並有一扇鋁窗，最深陰影與線稿用深藍 #0A1628，暖色僅一盆綠植花器小面積點綴 <15%。soft natural daylight, neutral-to-cool ~5200K。畫面一側保留留白給文字。NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "增員主題，呈現團隊夥伴成長氛圍；不出現保險公司商標/保單/鈔票，不承諾固定收入。若預留業務員署名，須標所屬公司全名＋業務員登錄字號。無招攬文字。",
-  "img": ""
+  "img": "recruit-a-04.jpg"
  },
  {
   "id": "recruit-a-05",
@@ -3217,7 +3217,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒。畫面一位當代台灣三十多歲女性在家中靠窗書桌前工作，黑色短髮、自然膚色、單眼皮，穿沉穩青綠 #00B4D8 居家襯衫，神情輕鬆，桌上有筆電與一本翻開的繁中月曆顯示彈性安排的行程。窗台擺一盆蝴蝶蘭，書桌上放亮青綠 #00D4FF 保溫瓶、椅背披 #00D4FF 薄外套，青綠兩處清楚可見。牆面用乾淨柔白 #FAFCFD，最深陰影用深藍 #0A1628，暖色僅木桌面小面積 <15%。soft natural daylight from window, neutral-to-cool ~5200K。畫面上方約30%留白給文字。NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "增員主題，呈現時間彈性氛圍而非承諾收入；不出現保單/保險公司商標/鈔票，不以被動收入或財富自由號召，無招攬文字。",
-  "img": ""
+  "img": "recruit-a-05.jpg"
  },
  {
   "id": "recruit-a-06",
@@ -3231,7 +3231,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒。畫面一位當代台灣二十多歲青年坐在台式街角咖啡店靠窗位置，黑髮微捲、自然健康膚色、內雙，穿沉穩青綠 #00B4D8 連帽外套，一手筆電一手平板，傳達一人多角色的斜槓生活感；窗外是騎樓與機車的台灣街景。桌上放亮青綠 #00D4FF 隨行杯、背一只 #00D4FF 後背包帶，青綠兩處清楚可見。室內牆面用乾淨淺青綠 #E3F2F4，最深陰影用深藍 #0A1628，木桌暖色僅小面積 <15%。soft natural daylight, neutral-to-cool ~5200K。畫面右側保留留白給文字。NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "增員主題，呈現斜槓彈性生活氛圍；不出現保險公司商標/保單/鈔票，不承諾固定收入、不以財富自由號召，無招攬文字。",
-  "img": ""
+  "img": "recruit-a-06.jpg"
  },
  {
   "id": "recruit-a-07",
@@ -3245,7 +3245,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒。畫面一位當代台灣四十歲媽媽站在社區公園紅磚步道旁，黑色綁髮、自然膚色、內雙，穿沉穩青綠 #00B4D8 開襟外套，低頭微笑用手機處理工作，背景有發財樹與長椅，傳達接送孩子空檔也能彈性安排的從容。她肩背亮青綠 #00D4FF 媽媽包、手機殼是 #00D4FF，青綠兩處清楚可見。背景天空與牆面用乾淨淺冷灰藍 #EAF0F3，最深陰影用深藍 #0A1628，紅磚暖色僅小面積 <15%。soft natural daylight, neutral-to-cool ~5200K。畫面大量留白給文字（4:5 上下留白）。NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "增員主題，強調時間彈性而非承諾收入；不出現保單/保險公司商標/鈔票，不以被動收入號召，無招攬文字。",
-  "img": ""
+  "img": "recruit-a-07.jpg"
  },
  {
   "id": "recruit-a-08",
@@ -3259,7 +3259,7 @@
   ],
   "prompt": "扁平向量插畫風、乾淨幾何、柔和手繪線稿、低彩度療癒。畫面一位當代台灣四十多歲男性，平頭花白、自然健康膚色、神情沉穩自信，穿沉穩青綠 #00B4D8 商務便服，站在台式辦公室門口準備踏入第二人生，背景有一扇鋁窗與一盆發財樹。他手提亮青綠 #00D4FF 公事包、別著 #00D4FF 名牌，青綠兩處清楚可見。牆面用乾淨柔白 #FAFCFD，最深陰影與線稿用深藍 #0A1628，暖色僅地墊一角小面積 <15%。soft natural daylight, neutral-to-cool ~5200K。畫面上方約30%留白給文字。NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "增員主題，呈現轉職新出發正向氛圍；不出現保險公司商標/保單/鈔票，不承諾固定收入、不以財富自由號召，無招攬文字。",
-  "img": ""
+  "img": "recruit-a-08.jpg"
  },
  {
   "id": "recruit-a-09",
@@ -3273,7 +3273,7 @@
   ],
   "prompt": "扁平向量插畫風、乾淨幾何、柔和手繪線稿、低彩度療癒。畫面四位當代台灣不同年齡夥伴圍著一張會議桌共學討論，黑髮或花白短髮、自然健康膚色、單眼皮或內雙、當代台灣日常上班穿著，氣氛溫暖互助。桌上攤開筆電與便利貼，兩位穿沉穩青綠 #00B4D8 上衣，桌上有亮青綠 #00D4FF 馬克杯與 #00D4FF 文件夾，青綠多處清楚可見。背景牆面用乾淨淺青綠 #E3F2F4，有一扇鋁窗與白板，最深陰影與線稿用深藍 #0A1628，暖色僅一盆綠植小面積 <15%。soft natural daylight, neutral-to-cool ~5200K。畫面一側保留留白給文字。NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "增員主題，呈現團隊共學成長氛圍；不出現保險公司商標/保單/鈔票，不承諾固定收入。若預留業務員署名，須標所屬公司全名＋業務員登錄字號。無招攬文字。",
-  "img": ""
+  "img": "recruit-a-09.jpg"
  },
  {
   "id": "recruit-a-10",
@@ -3287,7 +3287,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒。畫面一位當代台灣三十多歲女性坐在台式磁磚客廳布沙發上，黑色短髮、自然膚色、單眼皮，穿沉穩青綠 #00B4D8 上衣，對著筆電視訊微笑與夥伴連線協作，傳達在家也能自由安排與團隊合作。背景有不鏽鋼鐵窗花與一盆蝴蝶蘭，茶几放亮青綠 #00D4FF 保溫瓶、沙發披 #00D4FF 薄毯，青綠兩處清楚可見。牆面用乾淨淺冷灰藍 #EAF0F3，最深陰影用深藍 #0A1628，木質茶几暖色僅小面積 <15%。soft natural daylight from window, neutral-to-cool ~5200K。畫面右側保留留白給文字。NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "增員主題，呈現在家彈性協作氛圍而非承諾收入；不出現保單/保險公司商標/鈔票，不以被動收入或財富自由號召，無招攬文字。",
-  "img": ""
+  "img": "recruit-a-10.jpg"
  },
  {
   "id": "recruit-b-01",
@@ -3301,7 +3301,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風格。畫面:一位當代台灣年輕女性業務員(黑髮齊肩、自然健康膚色、內雙、簡約襯衫)在台式社區公園紅磚步道旁的木椅,雙手捧著一個資料夾、嘴角揚起靦腆又踏實的笑容,身旁資深前輩拍她肩膀鼓勵(花白短髮、台灣大叔臉)。背景乾淨冷中性淺青綠 #E3F2F4 牆面與柔白天空,大面積留白在上方約30%放繁體中文「我的第一步」。teal 定錨:女主角襯衫用沉穩 #00B4D8、她手邊保溫瓶與椅旁小盆栽花盆用亮 #00D4FF(至少2處清楚可見);深藍 #0A1628 作最深陰影與文字。暖色只能小面積點綴 <15%(一片落葉橘)。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow cast。背景明令 NOT cream, NOT beige, NOT yellow-tinted,大面積留白禁止奶油黃。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:不出現保單特寫/保險公司商標/商品名/理賠金額;不承諾固定收入;禁字保證/最高/第一(此處『第一步』指職涯起步非業績排名,文字採『我的第一步』避免暗示業績第一);若預留業務員署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "recruit-b-01.jpg"
  },
  {
   "id": "recruit-b-02",
@@ -3315,7 +3315,7 @@
   ],
   "prompt": "扁平向量插畫、乾淨幾何、柔和線稿、低彩度療癒風格。畫面:台式磁磚客廳布沙發場景,一位年輕台灣男性業務員(黑髮短髮、自然膚色、單眼皮、合身 polo 衫)與一對中年台灣夫妻溫和握手,桌上有兩杯茶,氣氛溫暖而專業,牆上有不鏽鋼鐵窗花隱約剪影、角落發財樹。背景乾淨冷中性淺冷灰藍 #EAF0F3 牆面,16:9 右側大量留白放繁體中文「用心服務,值得託付」。teal 定錨:業務員 polo 衫用沉穩 #00B4D8、茶杯與沙發薄毯用亮 #00D4FF(至少2處清楚可見);深藍 #0A1628 作最深陰影與文字。暖色只能小面積點綴 <15%(發財樹盆器一抹陶土色)。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow cast。背景明令 NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:圖面不出現保單/鈔票/保險公司商標或商品名/具體保額;不以財富自由或被動收入號召;文案『值得託付』為服務態度非保證理賠;預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "recruit-b-02.jpg"
  },
  {
   "id": "recruit-b-03",
@@ -3329,7 +3329,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風格。畫面:辦公室一隅,一位資深台灣女主管(花白短髮、和藹台灣阿姨臉、自然膚色)與一位年輕女新人並肩坐在白板前,主管手指白板上手繪的成長階梯圖、新人認真做筆記、兩人神情專注而溫暖。背景乾淨冷中性柔白 #FAFCFD 牆面,上方約30%留白放繁體中文「一步一步,陪你走」。teal 定錨:新人上衣用沉穩 #00B4D8、白板筆與桌上馬克杯用亮 #00D4FF(至少2處清楚可見);深藍 #0A1628 作白板線條最深陰影與文字。暖色只能小面積點綴 <15%(桌上一支木質鉛筆)。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow cast。背景明令 NOT cream, NOT beige, NOT yellow-tinted,大面積留白禁止奶油黃。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:增員訴求聚焦學習陪伴與成長,不承諾固定收入/不以財富自由號召;白板成長階梯為抽象示意,不出現具體業績數字或保額;預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "recruit-b-03.jpg"
  },
  {
   "id": "recruit-b-04",
@@ -3343,7 +3343,7 @@
   ],
   "prompt": "扁平向量插畫、乾淨幾何、柔和線稿、低彩度療癒風格。畫面:明亮的小型培訓室,一位中年台灣男前輩(黑髮微花白、自然膚色、單眼皮)站著示範,兩位年輕新人(一男一女、當代台灣日常穿著)坐著模擬對話演練,牆上有繁中月曆,窗外是台灣騎樓巷弄與機車的淡彩剪影。背景乾淨冷中性淺青綠 #E3F2F4 牆面,16:9 左側大量留白放繁體中文「演練一百次,上場不緊張」。teal 定錨:前輩襯衫用沉穩 #00B4D8、桌上水瓶與椅背抱枕用亮 #00D4FF(至少2處清楚可見);深藍 #0A1628 作最深陰影與文字。暖色只能小面積點綴 <15%(月曆紅色節日標記一點)。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow cast。背景明令 NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:畫面為內部教育訓練示意,不出現保單/商品名/保險公司商標;不承諾固定收入;不誇大成效;預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "recruit-b-04.jpg"
  },
  {
   "id": "recruit-b-05",
@@ -3357,7 +3357,7 @@
   ],
   "prompt": "溫潤水彩淡塗與扁平混合插畫、柔和手繪線稿、低彩度療癒風格。畫面:一位當代台灣年輕男性(黑髮短髮、自然膚色、合身西裝外套不打領帶)自信站在一個簡約小舞台或講台上、手持簡報筆向台下分享,台下有幾位聽眾剪影鼓掌,遠景有台北101淡彩剪影(不要紐約/歐洲)。背景乾淨冷中性淺冷灰藍 #EAF0F3 天空,16:9 右側大量留白放繁體中文「年輕,就是你的本錢」。teal 定錨:主角西裝外套用沉穩 #00B4D8、講台燈與簡報筆光點用亮 #00D4FF(至少2處清楚可見);深藍 #0A1628 作最深陰影與文字。暖色只能小面積點綴 <15%(舞台聚光一抹暖色暈)。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow cast。背景明令 NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:增員以舞台/自我實現訴求,不以財富自由或被動收入為號召;不承諾固定收入;『本錢』指年齡與時間資本非金錢保證;不出現保險公司商標/商品名;預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "recruit-b-05.jpg"
  },
  {
   "id": "recruit-b-06",
@@ -3371,7 +3371,7 @@
   ],
   "prompt": "扁平向量插畫、乾淨幾何、柔和線稿、低彩度療癒風格。畫面:一位當代台灣年輕女性(黑髮中長髮、自然膚色、內雙、簡約針織衫背著側背包)站在便利商店與騎樓巷弄前的台式街景,神情堅定看向前方、腳步邁出,背景有機車與紅磚步道。背景乾淨冷中性柔白 #FAFCFD 天空,上方約30%留白放繁體中文「換個跑道,也是一種勇敢」。teal 定錨:主角針織衫用沉穩 #00B4D8、側背包與便利商店招牌局部用亮 #00D4FF(至少2處清楚可見);深藍 #0A1628 作最深陰影與文字。暖色只能小面積點綴 <15%(街角一盆植栽暖陶盆)。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow cast。背景明令 NOT cream, NOT beige, NOT yellow-tinted,大面積留白禁止奶油黃。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:轉職訴求聚焦勇氣與職涯選擇,不承諾固定收入/不誇大轉職成效;便利商店招牌僅示意不出現真實品牌商標;不出現保險商品名;預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "recruit-b-06.jpg"
  },
  {
   "id": "recruit-b-07",
@@ -3385,7 +3385,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風格。畫面:一位當代台灣年輕女性(黑髮馬尾、自然膚色、單眼皮、居家簡約上衣)在台式磁磚客廳布沙發旁的書桌前,雙手舉起一張無字的證書框、開心微笑,桌上有筆電、講義與檯燈,角落有蝴蝶蘭。背景乾淨冷中性淺青綠 #E3F2F4 牆面,上方約30%留白放繁體中文「考過了!專業更上一層」。teal 定錨:主角上衣用沉穩 #00B4D8、檯燈與保溫杯用亮 #00D4FF(至少2處清楚可見);深藍 #0A1628 作最深陰影與文字。暖色只能小面積點綴 <15%(蝴蝶蘭花心一點淡粉)。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow cast。背景明令 NOT cream, NOT beige, NOT yellow-tinted,大面積留白禁止奶油黃。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:證書框留白不出現具體證照名稱/發證機構商標,避免誤導;進修訴求聚焦專業成長;不承諾固定收入;不出現保險商品名;預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "recruit-b-07.jpg"
  },
  {
   "id": "recruit-b-08",
@@ -3399,7 +3399,7 @@
   ],
   "prompt": "扁平向量插畫、乾淨幾何、柔和線稿、低彩度療癒風格。畫面:明亮的進修教室,幾位當代台灣成人(不同年齡、黑髮或花白短髮、自然膚色、日常穿著)坐在課桌前專注聽講與抄筆記,前方有一塊乾淨白板與簡報投影,氣氛積極正向。背景乾淨冷中性淺冷灰藍 #EAF0F3 牆面,16:9 右側大量留白放繁體中文「學習,是最好的投資自己」。teal 定錨:前排學員上衣用沉穩 #00B4D8、桌上水瓶與筆袋用亮 #00D4FF(至少2處清楚可見);深藍 #0A1628 作最深陰影與文字。暖色只能小面積點綴 <15%(投影畫面一抹暖色圖示)。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow cast。背景明令 NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:『投資自己』指自我成長非金融投資承諾;不承諾固定收入/不誇大進修效益;不出現保險公司商標/商品名;白板與投影內容不放具體保額或業績數字;預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "recruit-b-08.jpg"
  },
  {
   "id": "recruit-b-09",
@@ -3413,7 +3413,7 @@
   ],
   "prompt": "扁平向量插畫、乾淨幾何、柔和線稿、低彩度療癒風格。畫面:一群當代台灣同事(不同年齡、黑髮或花白短髮、自然膚色、休閒度假穿著)在海島度假村泳池畔開心合照舉手歡呼,背景有椰子樹剪影與藍綠海水。背景乾淨冷中性淺青綠 #E3F2F4 天空與海面,16:9 左側大量留白放繁體中文「努力的人,值得這趟旅程」。teal 定錨:海水與部分團員上衣用沉穩 #00B4D8、泳池水面與遮陽傘用亮 #00D4FF(至少2處清楚可見);深藍 #0A1628 作最深陰影與文字。暖色只能小面積點綴 <15%(沙灘一抹米色與一頂橘帽)。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow cast,陽光清亮不偏黃。背景明令 NOT cream, NOT beige, NOT yellow-tinted。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:旅遊獎勵為團隊激勵示意,文案『值得這趟旅程』不承諾必達/不保證達成條件;不承諾固定收入/不以財富自由號召;不出現具體業績門檻數字;不出現保險公司商標/商品名;預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "recruit-b-09.jpg"
  },
  {
   "id": "recruit-b-10",
@@ -3427,7 +3427,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫、柔和手繪線稿、低彩度療癒風格。畫面:小型團隊聚會場合,一位資深台灣女主管(花白短髮、和藹台灣臉、自然膚色)將一個無字獎座頒給一位開心的年輕業務員,旁邊幾位同事鼓掌,背景有簡約布幔與發財樹。背景乾淨冷中性柔白 #FAFCFD 牆面,4:5 上下大量留白放繁體中文「你的努力,大家都看見」。teal 定錨:得獎者上衣用沉穩 #00B4D8、獎座底座與桌花瓶用亮 #00D4FF(至少2處清楚可見);深藍 #0A1628 作最深陰影與文字。暖色只能小面積點綴 <15%(布幔一道暖色緞帶)。光線 soft natural daylight, neutral-to-cool ~5200K, no warm yellow cast。背景明令 NOT cream, NOT beige, NOT yellow-tinted,大量留白禁止奶油黃。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規:獎座留白不出現具體業績名次/數字/保險公司商標;肯定訴求聚焦努力過程而非收入;不承諾固定收入;不出現保險商品名;預留署名須標所屬公司全名+業務員登錄字號。",
-  "img": ""
+  "img": "recruit-b-10.jpg"
  },
  {
   "id": "brand-a-01",
@@ -3455,7 +3455,7 @@
   ],
   "prompt": "柔和扁平向量插畫的「專業形象頭貼打光參考圖」，不含任何真人臉孔——以一盞攝影柔光燈、反光板與圓形背景紙構成的棚拍打光示意，療癒低彩度、柔和手繪線稿、不要寫實照片、不要3D塑膠感。背景採乾淨冷中性的淺冷灰藍 #EAF0F3（NOT cream, NOT beige, NOT yellow-tinted）。品牌青綠 teal 為定錨：圓形背景紙染亮青 #00D4FF、柔光燈架與燈頭外框用沉穩 #00B4D8，至少兩處清楚可見；燈具最深陰影與支架輪廓用深藍 #0A1628。畫面以乾淨幾何扁平風呈現光線方向箭頭與柔和光暈，整體 cool-neutral，零大面積暖色（暖色點綴 <15%，僅燈泡暖芯一點）。soft natural daylight feel, neutral-to-cool 約5200K, no warm yellow cast。中央圓形區留白預留人像置入位置，四周大量負空間。可留白或標註繁體中文打光術語佔位。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "示意圖不出現保險公司商標、商品名與保單；若供業務員放置真實頭貼後使用，個人品牌素材署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-a-02.jpg"
  },
  {
   "id": "brand-a-03",
@@ -3469,7 +3469,7 @@
   ],
   "prompt": "極簡扁平資訊圖風格的「服務理念引言卡」，乾淨幾何、大量負空間、療癒低彩度，不要寫實照片、不要3D塑膠感。背景採近白 #FDFEFE，搭配乾淨冷中性留白（NOT cream, NOT beige, NOT yellow-tinted）。以單一品牌青綠 teal #00D4FF 圖形為視覺定錨——左側放一個大型青綠引號符號與一條細弧線，另以沉穩 #00B4D8 描一個小對話框圖示，至少兩處清楚可見；所有文字與分隔線用深藍 #0A1628。整體零暖色（cool-neutral，暖色配額 <15% 且此圖不使用）。畫面點綴一個極簡台式鋁窗線稿剪影於右下角，暗示台灣在地辦公日常。soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。16:9 一側（右側）大量留白預留理念引言文字，左側放 teal 引號圖形。可放繁體中文佔位短句。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "理念文字以溫暖陪伴為主軸，禁恐懼訴求（不用病床/留債/孤老），不放具體保額理賠金額，不含禁字（保證/最高/第一/唯一/穩賺/節稅等）；署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-a-03.jpg"
  },
  {
   "id": "brand-a-04",
@@ -3483,7 +3483,7 @@
   ],
   "prompt": "乾淨扁平資訊圖版型的「客戶好評感謝牆」，療癒低彩度、柔和幾何卡片、大量留白，不要寫實照片、不要3D塑膠感。背景採乾淨冷中性的淺青綠 #E3F2F4（NOT cream, NOT beige, NOT yellow-tinted）。版面為 2×2 或 3 列的留言卡格狀排列，每張卡為近白 #FDFEFE 圓角卡片，卡內預留繁體中文好評文字位置與一個極簡頭像圓框（不含真人臉，僅幾何剪影）。品牌青綠 teal 為定錨：頭像圓框描亮青 #00D4FF、每張卡左上角放沉穩 #00B4D8 的小愛心或星星圖示，至少兩處清楚可見；卡片陰影與文字用深藍 #0A1628。整體 cool-neutral，零大面積暖色（<15%）。畫面頂端點綴一條不鏽鋼鐵窗花線稿橫飾，呼應台灣在地。soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。4:5 大量留白，頂部約30%預留「客戶感謝」標題區。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "好評內容須為真實客戶且取得同意，不得虛構或暗示保證理賠/穩成交；不出現具體保額金額與保險公司商標；版型署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-a-04.jpg"
  },
  {
   "id": "brand-a-05",
@@ -3497,7 +3497,7 @@
   ],
   "prompt": "扁平向量插畫的「自我介紹一頁式背景版型」，乾淨幾何、療癒低彩度、柔和手繪線稿，不要寫實照片、不要3D塑膠感。場景為一處明亮的台灣社區公園紅磚步道旁，遠景一棵發財樹與台北101淡淡剪影（不要紐約/歐洲）。背景天空與牆面採乾淨冷中性的柔白 #FAFCFD 至淺冷灰藍 #EAF0F3 漸層（NOT cream, NOT beige, NOT yellow-tinted）。畫面左側放一位當代台灣東亞臉孔的專業人士站姿——黑髮短髮、自然健康膚色、單眼皮、當代台灣日常商務便服（不要歐美白人臉/金髮/深輪廓/旗袍唐裝），衣物為沉穩青綠 #00B4D8，手持一只亮青 #00D4FF 保溫瓶，至少兩處 teal 清楚可見；最深陰影與輪廓用深藍 #0A1628。暖色僅紅磚步道一點點綴（<15%）。soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。16:9 右側約一半大量留白預留自我介紹文字、姓名與資歷欄。可放繁體中文佔位。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "自我介紹不承諾固定收入、不以財富自由/被動收入號召，資歷敘述不得含禁字（保證/最高/第一/唯一等）；姓名資歷區署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-a-05.jpg"
  },
  {
   "id": "brand-a-06",
@@ -3511,7 +3511,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風格的「個人品牌標語橫幅」，幾何分割、大量負空間、療癒低彩度，不要寫實照片、不要3D塑膠感。背景採乾淨冷中性的淺冷灰藍 #EAF0F3（NOT cream, NOT beige, NOT yellow-tinted）。畫面以一條由左下斜向右上的青綠對角色塊分割版面，色塊為亮青 #00D4FF，並以沉穩 #00B4D8 疊一條細平行線，至少兩處 teal 清楚可見；標語文字框與底線用深藍 #0A1628。右上角放一個極簡台式騎樓巷弄機車線稿剪影，呼應台灣在地通勤日常。整體零暖色（cool-neutral，暖色 <15% 且此圖不使用）。soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。16:9 左側大面積留白預留品牌標語主文，右下留次行佔位。可放繁體中文標語佔位。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "品牌標語為正向價值主張，不含招攬與禁字（保證/最高/第一/唯一/穩賺/節稅等），不用恐懼訴求；署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-a-06.jpg"
  },
  {
   "id": "brand-a-07",
@@ -3525,7 +3525,7 @@
   ],
   "prompt": "極簡扁平資訊圖的「服務理念三步驟卡」，乾淨幾何、大量留白、療癒低彩度，不要寫實照片、不要3D塑膠感。背景採近白 #FDFEFE 配乾淨冷中性留白（NOT cream, NOT beige, NOT yellow-tinted）。版面垂直排列三個圓形編號圖示（1、2、3，從 1 開始），圓圈用亮青 #00D4FF 填色、連接線與圖示符號用沉穩 #00B4D8，至少兩處 teal 清楚可見；編號數字與說明文字用深藍 #0A1628。每步驟旁放一個極簡圖示：一杯台式早餐店紅茶杯線稿、一只紅色平安符輪廓、一台機車鑰匙，暗示台灣在地生活陪伴。整體零暖色（cool-neutral，暖色 <15%，僅平安符一抹紅點綴）。soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。4:5 大量留白，頂部約25%預留標題，右側留說明文字欄。可放繁體中文佔位。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "流程文字以陪伴與服務說明為主，不暗示穩成交/保證理賠，不放具體保額金額，不含禁字；署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-a-07.jpg"
  },
  {
   "id": "brand-a-08",
@@ -3539,7 +3539,7 @@
   ],
   "prompt": "乾淨扁平資訊圖的「形象頭貼背景紙色票參考」，不含任何真人臉孔——以攝影棚背景紙捲、色票卡與圓形裁切框構成，療癒低彩度、柔和幾何，不要寫實照片、不要3D塑膠感。背景採乾淨冷中性的淺青綠 #E3F2F4（NOT cream, NOT beige, NOT yellow-tinted）。三張背景紙色票由淺至深排列，主推色票為亮青 #00D4FF 與沉穩 #00B4D8，至少兩處 teal 清楚可見；色票邊框、圓形裁切框與標註文字用深藍 #0A1628。畫面點綴一盆小發財樹於角落，呼應台灣辦公空間。整體零暖色（cool-neutral，暖色 <15%）。soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。中央圓形裁切框留白預留人像置入，四周大量負空間預留色號標註。可放繁體中文佔位。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "示意圖不出現保險公司商標、商品名與保單；供業務員置入真實頭貼後使用的個人品牌素材，署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-a-08.jpg"
  },
  {
   "id": "brand-a-09",
@@ -3553,7 +3553,7 @@
   ],
   "prompt": "乾淨扁平資訊圖版型的「客戶感謝引言牆（橫式）」，療癒低彩度、柔和圓角卡片、大量留白，不要寫實照片、不要3D塑膠感。背景採乾淨冷中性的柔白 #FAFCFD（NOT cream, NOT beige, NOT yellow-tinted）。版面橫向並排三張近白 #FDFEFE 圓角好評卡，每張卡內預留繁體中文短評與一個幾何頭像剪影（不含真人臉）。品牌青綠 teal 為定錨：頭像框與卡片頂邊描亮青 #00D4FF、每張卡放一組沉穩 #00B4D8 的小星星評分圖示，至少兩處清楚可見；卡片陰影與文字用深藍 #0A1628。畫面底部點綴一條土地公廟簷角與紅磚步道線稿橫飾，呼應台灣在地社區。整體 cool-neutral，暖色僅廟簷一抹紅點綴（<15%）。soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。16:9 頂部約30%大量留白預留「感謝有您」標題區。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "好評須真實且經客戶同意，不得虛構或暗示保證/穩成交；不出現具體保額金額與保險公司商標；版型署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-a-09.jpg"
  },
  {
   "id": "brand-a-10",
@@ -3567,7 +3567,7 @@
   ],
   "prompt": "扁平向量插畫的「自我介紹名片式背景（直式）」，乾淨幾何、療癒低彩度、柔和手繪線稿，不要寫實照片、不要3D塑膠感。背景採乾淨冷中性的淺冷灰藍 #EAF0F3（NOT cream, NOT beige, NOT yellow-tinted）。版面上半放一面台式磁磚客廳牆與不鏽鋼鐵窗花一角，下半為大面積留白資訊區。中央放一個亮青 #00D4FF 的圓形頭像框（內為幾何頭像剪影，不含真人臉），框旁一只沉穩 #00B4D8 的保溫瓶與一盆蝴蝶蘭小物，至少兩處 teal 清楚可見；姓名、職稱與聯絡欄線條用深藍 #0A1628。暖色僅蝴蝶蘭花心一點點綴（<15%）。soft natural daylight, neutral-to-cool 約5200K, no warm yellow cast。4:5 下半約45%大量留白預留姓名、一句話自我介紹與聯絡資訊欄位。可放繁體中文佔位。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "自我介紹不承諾固定收入、不以財富自由/被動收入號召，不含禁字（保證/最高/第一/唯一等）；姓名職稱聯絡欄署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-a-10.jpg"
  },
  {
   "id": "brand-b-01",
@@ -3581,7 +3581,7 @@
   ],
   "prompt": "扁平向量插畫風格的乾淨資訊圖卡，療癒柔和手繪線稿、低彩度幾何扁平風，不要寫實照片、不要3D塑膠感。整體背景採乾淨冷中性的近白 #FDFEFE 牆面，大量負空間留白，明令 NOT cream、NOT beige、NOT yellow-tinted，禁止奶油黃。畫面以品牌青綠 teal 定錨：中央一個大型圓環進度圖形用亮青綠 #00D4FF 描邊，環內留白置放兩組大數字（年資數字與服務人數，數字下方標單位「年」「位客戶」），數字與所有文字用深藍 #0A1628。圖卡四角點綴幾個沉穩 #00B4D8 的小幾何裝飾（細線、小圓點、緞帶徽章形狀）至少兩處清楚可見。暖色僅允許 <15% 極小面積點綴，例如一枚小小的暖橘星形貼紙。上方約30%留白給標題。光線 soft natural daylight、neutral-to-cool ~5200K、no warm yellow color cast。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規：不放具體保額或理賠金額、不出現保險公司商標或商品名。數字僅呈現年資與服務人數，禁用保證/最高/第一/唯一等字。預留業務員署名處：署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-b-01.jpg"
  },
  {
   "id": "brand-b-02",
@@ -3595,7 +3595,7 @@
   ],
   "prompt": "扁平向量設計的 Facebook/IG 封面版型，溫潤柔和、低彩度乾淨幾何扁平風，不要寫實照片、不要3D塑膠感。整體背景為乾淨冷中性的柔白 #FAFCFD，向右側漸入淺冷灰藍 #EAF0F3，明令 NOT cream、NOT beige、NOT yellow-tinted。版面左側 1/3 留大量負空間給姓名與標語文字（深藍 #0A1628 文字），右側 2/3 以品牌青綠 teal 定錨：用沉穩 #00B4D8 與亮 #00D4FF 組成的層疊幾何色塊、斜切線條與抽象波形，象徵專業與信任，teal 至少兩處清楚可見。可選擇放一個簡單扁平的當代台灣東亞臉孔半身剪影（黑髮短髮、自然健康膚色、單眼皮或內雙、當代台灣商務襯衫，襯衫用 #00B4D8），無中國古裝。暖色僅 <15% 極小面積點綴。一側大量留白。光線 soft natural daylight、neutral-to-cool ~5200K、no warm yellow color cast。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規：封面文字只放姓名／服務理念／聯絡資訊，不含招攬話術，禁用保證/最高/第一/唯一等字。不出現保單、鈔票、保險公司商標或商品名。預留業務員署名處：署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-b-02.jpg"
  },
  {
   "id": "brand-b-03",
@@ -3609,7 +3609,7 @@
   ],
   "prompt": "扁平向量插畫風的 LINE 官方帳號歡迎首圖，療癒柔和手繪線稿、低彩度乾淨幾何扁平風，不要寫實照片、不要3D塑膠感。整體背景採乾淨冷中性的淺青綠 #E3F2F4，大面積留白，明令 NOT cream、NOT beige、NOT yellow-tinted。畫面中央一個友善的當代台灣東亞臉孔半身插畫（黑髮短髮、自然健康膚色、單眼皮或內雙、微笑揮手），穿沉穩青綠 #00B4D8 的當代台灣日常襯衫，無中國古裝。以品牌青綠 teal 定錨：人物身後一個亮青綠 #00D4FF 的對話泡泡圖形與小裝飾光點，並有一只亮 #00D4FF 的台式保溫瓶或杯子小物，teal 至少兩處清楚可見；最深陰影與文字用深藍 #0A1628。可加入細緻的台灣在地點綴如鋁窗光線、一盆蝴蝶蘭。暖色僅 <15% 極小面積點綴。上方約30%留白給「歡迎加入」字樣。光線 soft natural daylight、neutral-to-cool ~5200K、no warm yellow color cast。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規：歡迎文字僅放問候與服務介紹，不以恐懼訴求、不承諾理賠或保額，禁用保證/最高/第一/唯一等字。不出現保單、保險公司商標或商品名。預留業務員署名處：署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-b-03.jpg"
  },
  {
   "id": "brand-b-04",
@@ -3623,7 +3623,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風格的個人從業故事時間軸，溫潤低彩度、柔和手繪線稿幾何扁平風，不要寫實照片、不要3D塑膠感。整體背景採乾淨冷中性的柔白 #FAFCFD，大量負空間留白，明令 NOT cream、NOT beige、NOT yellow-tinted。畫面中央一條垂直時間軸主線用亮青綠 #00D4FF，沿線四到五個圓形節點以沉穩 #00B4D8 標示不同階段（入行、進修、服務客戶、社區參與），每個節點旁配一個簡單扁平的台灣在地小圖示（社區公園紅磚步道、騎樓巷弄、土地公廟剪影、發財樹），teal 至少兩處清楚可見。所有年份與說明文字用深藍 #0A1628。可放一個極小的當代台灣東亞臉孔頭像插畫（黑髮、自然膚色）。暖色僅 <15% 極小面積點綴。大量留白給文字。光線 soft natural daylight、neutral-to-cool ~5200K、no warm yellow color cast。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規：時間軸僅敘述從業歷程與服務精神，不放具體保額／理賠金額、不承諾收入或業績，禁用保證/最高/第一/唯一等字。不出現保單、保險公司商標或商品名。預留業務員署名處：署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-b-04.jpg"
  },
  {
   "id": "brand-b-05",
@@ -3637,7 +3637,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風格的服務承諾三欄價值卡版型，溫潤低彩度幾何扁平風、柔和手繪線稿，不要寫實照片、不要3D塑膠感。整體背景採乾淨冷中性的淺冷灰藍 #EAF0F3，大量負空間留白，明令 NOT cream、NOT beige、NOT yellow-tinted。畫面橫向三個等寬卡片，每張卡片頂端一個亮青綠 #00D4FF 的線性圖示（握手、雨傘庇護、雙手捧心象徵溫暖陪伴），卡片邊框與分隔線用沉穩 #00B4D8，teal 至少兩處清楚可見；卡片標題與內文字用深藍 #0A1628，卡片底用近白 #FDFEFE。整體營造專業、可信賴、溫暖陪伴的個人品牌調性，可在一側放一個極小的當代台灣東亞臉孔半身剪影（黑髮短髮、自然膚色、當代台灣襯衫）。暖色僅 <15% 極小面積點綴。上方與一側留白給主標。光線 soft natural daylight、neutral-to-cool ~5200K、no warm yellow color cast。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "合規：價值卡僅描述服務態度與陪伴精神，溫暖訴求不用病床／孤老等恐懼畫面，禁用保證/最高/第一/唯一/穩賺等字、不放保額與理賠金額。不出現保單、保險公司商標或商品名。預留業務員署名處：署名須標所屬公司全名＋業務員登錄字號。",
-  "img": ""
+  "img": "brand-b-05.jpg"
  },
  {
   "id": "honor-a-01",
@@ -3665,7 +3665,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風、近白 #FDFEFE 背景搭大量負空間、單一 teal 圖形主導、零暖色。一張台灣保險顧問「MDRT 榮耀達成」恭賀版型,中央一枚扁平向量風格的圓形榮耀獎章與緞帶,獎章外圈與緞帶用品牌青綠 #00B4D8,內部光暈與細節點綴用亮青 #00D4FF(至少兩處明顯 teal),獎章上的星形與文字框用深藍 #0A1628。背景近白並可加極淡的同心圓光線,務必 NOT cream、NOT beige、NOT yellow-tinted,大面積留白禁止奶油黃。4:5 直幅構圖,上下保留大量留白給恭賀標題與業務員署名欄。soft natural daylight, neutral-to-cool 約 5200K, no warm yellow cast。簡潔、莊重、有榮耀感。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "MDRT 為國際榮譽頭銜,圖卡僅呈現榮耀不附帶招攬訴求。預留署名須標所屬保險公司全名+業務員登錄字號。禁用保證/最高/第一/唯一等字;不放具體業績、保額或佣金數字;不出現保險公司商標或商品名。",
-  "img": ""
+  "img": "honor-a-02.jpg"
  },
  {
   "id": "honor-a-03",
@@ -3679,7 +3679,7 @@
   ],
   "prompt": "溫潤扁平向量插畫風、柔和手繪線稿、低彩度療癒。一張台灣保險「本月冠軍喜報」社群方卡,可放一位當代台灣東亞臉孔的業務員半身簡化剪影(黑髮短髮、自然健康膚色、單眼皮或內雙、當代台灣日常穿著),衣物用沉穩青綠 #00B4D8。背景牆面採乾淨柔白 #FAFCFD 大留白,NOT cream、NOT beige、NOT yellow-tinted。人物旁飄一面扁平風冠軍三角錦旗與一只手持的保溫瓶,用亮青 #00D4FF 點綴(至少兩處清楚可見 teal),邊框與文字底色用深藍 #0A1628。少量暖橘碎紙花作喜報氛圍但小於 15%。上方約 30% 留白給「本月冠軍」標題。soft natural daylight, neutral-to-cool 約 5200K, no warm yellow cast。清新、喜氣、不俗豔。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "喜報為內部榮耀分享,文字僅恭賀不含招攬。預留署名須標所屬保險公司全名+業務員登錄字號。禁用保證/最高/第一/穩成交等字;不放具體業績或保額數字;圖面不出現保險公司商標或商品名。",
-  "img": ""
+  "img": "honor-a-03.jpg"
  },
  {
   "id": "honor-a-04",
@@ -3693,7 +3693,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風、近白 #FDFEFE 背景搭大量負空間、單一 teal 主導、零暖色。一張台灣保險「季冠軍榮耀榜」直幅版型,中央一座由三層階梯與向上箭頭組成的扁平風榮耀台,主結構用品牌青綠 #00B4D8,頂端的小旗與光點用亮青 #00D4FF(至少兩處明顯 teal),刻度線與標題文字框用深藍 #0A1628。背景近白、極淡冷灰格線,務必 NOT cream、NOT beige、NOT yellow-tinted,大面積留白禁奶油黃。4:5 直幅,上方與右側保留大量留白給季度標題與三個名次欄位。soft natural daylight, neutral-to-cool 約 5200K, no warm yellow cast。專業、結構清楚、有層次。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "榮耀榜僅列名次與祝賀,不附招攬。預留署名須標所屬保險公司全名+業務員登錄字號。禁用保證/最高/第一/唯一/穩賺等字;不放具體業績、保額或佣金金額;不出現保險公司商標或商品名。",
-  "img": ""
+  "img": "honor-a-04.jpg"
  },
  {
   "id": "honor-a-05",
@@ -3707,7 +3707,7 @@
   ],
   "prompt": "溫潤水彩淡塗插畫風、柔和手繪線稿、低彩度療癒。一張台灣保險「感謝客戶信任」方卡,畫面中兩隻當代台灣東亞膚色的手在台式布沙發旁輕輕相握致意(自然健康膚色,不畫臉),其中一人衣袖用沉穩青綠 #00B4D8。背景客廳牆面採乾淨淺青綠 #E3F2F4 大留白,旁邊一盆蝴蝶蘭與一只茶杯,茶杯與窗框用亮青 #00D4FF 點綴(至少兩處清楚可見 teal),陰影與文字框用深藍 #0A1628。整體 NOT cream、NOT beige、NOT yellow-tinted。上方約 30% 留白給「謝謝您的信任」字句。soft natural daylight, neutral-to-cool 約 5200K, no warm yellow cast。溫暖卻乾淨、誠懇、不煽情。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "客戶見證類僅表達感謝,不揭露客戶個資、不放成交金額或保額。預留署名須標所屬保險公司全名+業務員登錄字號。禁用保證/最高/第一/穩成交/一定賠等字;不出現保險公司商標、商品名或保單;不用恐懼訴求。",
-  "img": ""
+  "img": "honor-a-05.jpg"
  },
  {
   "id": "honor-a-06",
@@ -3721,7 +3721,7 @@
   ],
   "prompt": "溫潤扁平向量插畫風、柔和手繪線稿、低彩度療癒。一張台灣保險「新人破蛋報喜」社群方卡,可放一位年輕當代台灣東亞臉孔新人的半身簡化插畫(黑髮短髮、自然健康膚色、單眼皮或內雙、當代台灣日常襯衫),襯衫用沉穩青綠 #00B4D8,臉上帶靦腆笑容、握拳加油手勢。背景牆面採乾淨柔白 #FAFCFD 大留白,身旁飄一只扁平風破殼而出的蛋與向上小箭頭、一個亮青 #00D4FF 的識別證吊帶(至少兩處清楚 teal),邊框與文字底用深藍 #0A1628。少量暖橘小星點綴小於 15%。上方約 30% 留白給「初次達成」字句。soft natural daylight, neutral-to-cool 約 5200K, no warm yellow cast。清新、勵志、不浮誇。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "新人報喜為團隊鼓勵,文字僅祝賀不含招攬。預留署名須標所屬保險公司全名+業務員登錄字號。禁用保證/最高/第一/穩賺等字;增員聯想不承諾固定收入、不以財富自由號召;不放具體業績或保額;不出現保險公司商標或商品名。",
-  "img": ""
+  "img": "honor-a-06.jpg"
  },
  {
   "id": "honor-a-07",
@@ -3735,7 +3735,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風、近白 #FDFEFE 背景搭大量負空間、單一 teal 主導、零暖色。一張台灣保險顧問「COT/TOT 榮耀」橫幅資訊圖,左側一枚扁平向量風格的雙層獎章與桂冠,主體用品牌青綠 #00B4D8,光暈與緞帶細節用亮青 #00D4FF(至少兩處明顯 teal),刻度與標題文字框用深藍 #0A1628。右側保留大量近白留白給榮耀說明與業務員署名欄。背景極淡冷灰光線,務必 NOT cream、NOT beige、NOT yellow-tinted。16:9 一側留白構圖。soft natural daylight, neutral-to-cool 約 5200K, no warm yellow cast。莊重、簡潔、國際榮譽感。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "COT/TOT 為國際榮譽頭銜,圖卡僅呈現榮耀不附招攬訴求。預留署名須標所屬保險公司全名+業務員登錄字號。禁用保證/最高/第一/唯一等字;不放具體業績、保額或佣金數字;不出現保險公司商標或商品名。",
-  "img": ""
+  "img": "honor-a-07.jpg"
  },
  {
   "id": "honor-a-08",
@@ -3749,7 +3749,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風、近白 #FDFEFE 背景搭大量負空間、單一 teal 主導、零暖色。一張台灣保險團隊「破紀錄里程碑」直幅時間軸版型,中央一條由下往上的扁平風時間軸,節點為圓點與小旗,主軸線與節點用品牌青綠 #00B4D8,頂端突破標記與光點用亮青 #00D4FF(至少兩處明顯 teal),節點文字框與最深陰影用深藍 #0A1628。背景近白、極淡冷灰格線,務必 NOT cream、NOT beige、NOT yellow-tinted,大留白禁奶油黃。4:5 直幅,左右保留大量留白給各里程碑文字。soft natural daylight, neutral-to-cool 約 5200K, no warm yellow cast。結構清楚、向上、專業。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "里程碑時間軸僅呈現團隊成長歷程,不附招攬。預留署名須標所屬保險公司全名+業務員登錄字號。禁用保證/最高/第一/唯一/穩賺等字;節點不放具體業績、保額或佣金數字;不出現保險公司商標或商品名。",
-  "img": ""
+  "img": "honor-a-08.jpg"
  },
  {
   "id": "honor-a-09",
@@ -3763,7 +3763,7 @@
   ],
   "prompt": "溫潤扁平向量插畫風、柔和手繪線稿、低彩度療癒。一張台灣保險「客戶感謝見證」引言方卡,以乾淨版型為主、人物極簡或無。背景牆面採乾淨淺冷灰藍 #EAF0F3 大留白,中央一個大型扁平風引號符號與一張對話氣泡卡片,引號與卡片邊框用品牌青綠 #00B4D8,卡片內的小愛心與下方一只保溫瓶圖示用亮青 #00D4FF 點綴(至少兩處清楚可見 teal),引言文字與署名線用深藍 #0A1628。整體 NOT cream、NOT beige、NOT yellow-tinted。上方約 30% 留白放標題,卡片中央留白填客戶感謝引言(去識別、匿名)。soft natural daylight, neutral-to-cool 約 5200K, no warm yellow cast。誠懇、乾淨、可信。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "見證引言須去識別化、匿名,不揭露客戶姓名或個資,不放成交金額或保額。預留署名須標所屬保險公司全名+業務員登錄字號。禁用保證/最高/第一/一定賠/絕對等字;不出現保險公司商標、商品名或保單;不用恐懼訴求。",
-  "img": ""
+  "img": "honor-a-09.jpg"
  },
  {
   "id": "honor-a-10",
@@ -3777,7 +3777,7 @@
   ],
   "prompt": "溫潤扁平向量插畫風、柔和手繪線稿、低彩度療癒。一張台灣保險「團隊全員達標」橫幅榮耀牆,一排當代台灣東亞臉孔的業務員半身簡化插畫(黑髮或花白短髮、自然健康膚色、單眼皮或內雙、當代台灣日常穿著),數人衣物用沉穩青綠 #00B4D8,大家舉手擊掌或比讚。背景辦公牆面採乾淨柔白 #FAFCFD 大留白,牆上掛一面扁平風達標折線圖與小錦旗、桌上幾只亮青 #00D4FF 保溫瓶(至少兩處清楚可見 teal),陰影與標題框用深藍 #0A1628。少量暖橘碎紙花小於 15%。16:9 上方一側留白給「全員達標」標題。soft natural daylight, neutral-to-cool 約 5200K, no warm yellow cast。團結、明亮、不俗豔。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "團隊榮耀牆僅呈現達標氛圍,文字僅恭賀不含招攬。預留署名須標所屬保險公司全名+業務員登錄字號。禁用保證/最高/第一/唯一/穩賺等字;不放具體業績或保額;不出現保險公司商標或商品名;增員聯想不承諾固定收入。",
-  "img": ""
+  "img": "honor-a-10.jpg"
  },
  {
   "id": "honor-b-01",
@@ -3791,7 +3791,7 @@
   ],
   "prompt": "扁平向量插畫風格，柔和手繪線稿、低彩度療癒、乾淨幾何構圖，不要寫實照片、不要3D塑膠感。一張團隊晉升主任喜報賀卡版型：畫面下方約三分之一處有一位當代台灣東亞臉孔上班族——黑髮俐落短髮、自然健康膚色、單眼皮、穿沉穩青綠 #00B4D8 西裝外套白襯衫，半身、自信微笑、手持一份簡潔證書（不出現任何公司商標或文字）。背景牆面用乾淨淺冷灰藍 #EAF0F3（NOT cream, NOT beige, NOT yellow-tinted），大面積負空間留給文字。畫面右上有亮 teal #00D4FF 的扁平彩帶與小星星圖形、左側一個 #00D4FF 的小獎章緞帶圖形，至少兩處清楚可見的亮 teal 定錨。深藍 #0A1628 作最深陰影與標題文字「恭賀晉升主任」。暖色僅作彩帶尾端不到一成的小點綴。soft natural daylight, neutral-to-cool 5200K, no warm yellow cast。上方約30%留白放賀詞與署名欄。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "賀圖署名須標所屬公司全名＋業務員登錄字號；證書與彩帶不得出現保險公司商標或商品名。文字僅放祝賀詞，不得含招攬語或保證、最高、第一等禁字。",
-  "img": ""
+  "img": "honor-b-01.jpg"
  },
  {
   "id": "honor-b-02",
@@ -3805,7 +3805,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風格、單一 teal 圖形＋深藍文字、大量負空間，不要寫實照片、不要3D塑膠感。一張晉升經理榮耀數據卡版型，幾乎無人物：背景近白 #FDFEFE，輔以淺青綠 #E3F2F4 的大色塊作下緣（NOT cream, NOT beige, NOT yellow-tinted）。畫面中央一個亮 teal #00D4FF 的扁平向上箭頭圖形與一個 #00D4FF 階梯成長圖示，搭配三個並排的圓角數據卡片，卡片邊框用沉穩 teal #00B4D8（至少兩處清楚 teal 定錨）。卡片內留空白數字欄位讓使用者後填，標題用深藍 #0A1628 寫「榮升經理」。整體零暖色，僅箭頭頂端一點微暖橘不到一成點綴。soft natural daylight, neutral-to-cool 5200K, no warm yellow cast。上方與四周大量留白，方便加上姓名、團隊名與祝賀短語。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "署名須標所屬公司全名＋業務員登錄字號；數據欄位不得填具體保額或理賠金額，避免穩賺、最高、第一等禁字，不放保險公司商標或商品名。",
-  "img": ""
+  "img": "honor-b-02.jpg"
  },
  {
   "id": "honor-b-03",
@@ -3819,7 +3819,7 @@
   ],
   "prompt": "乾淨扁平向量插畫、柔和手繪線稿、低彩度療癒，不要寫實照片、不要3D塑膠感。一張客戶見證引言卡（方版社群圖）：背景柔白 #FAFCFD（NOT cream, NOT beige, NOT yellow-tinted），中央一個大型亮 teal #00D4FF 的扁平引號「」圖形作視覺主角。下緣放一位當代台灣東亞臉孔客戶的圓形頭像插畫——花白短髮中年男性、自然健康膚色、內雙、穿沉穩青綠 #00B4D8 polo 衫、溫和微笑，頭像外框用 teal #00B4D8 細圈（至少兩處清楚 teal 定錨）。深藍 #0A1628 作引言文字與署名線。整體 cool-neutral，零大面積暖色，僅引號陰影帶一點微暖不到一成。soft natural daylight, neutral-to-cool 5200K, no warm yellow cast。上方約30%留白放見證引言文字。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "客戶見證須去識別化、取得當事人同意；引言不得出現保證、一定賠、最高等禁字，不放具體保額理賠金額與保單。卡片若含業務員署名須標所屬公司全名＋登錄字號。",
-  "img": ""
+  "img": "honor-b-03.jpg"
  },
  {
   "id": "honor-b-04",
@@ -3833,7 +3833,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風格、單一 teal 圖形＋深藍文字、溫暖陪伴調性，不要寫實照片、不要3D塑膠感。一張理賠服務見證流程卡（方版），去識別化：背景淺冷灰藍 #EAF0F3（NOT cream, NOT beige, NOT yellow-tinted）。畫面用三步驟橫向流程，每步一個亮 teal #00D4FF 的扁平圖示——通報、陪同、安心收到，步驟之間用 teal #00B4D8 虛線箭頭連接（至少兩處清楚 teal 定錨）。右下角一隻溫暖陪伴的雙手相握小插圖，象徵陪伴而非病痛。深藍 #0A1628 作步驟標題與說明文字。整體 cool-neutral，零大面積暖色。soft natural daylight, neutral-to-cool 5200K, no warm yellow cast。中央與上方留白放見證短文與感謝語。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "理賠案例須完全去識別化、不出現姓名與具體理賠金額；用溫暖陪伴語氣，禁病床、血淋淋等恐懼訴求，避免一定賠、保證、絕對等禁字，不放保險公司商標或保單。署名須標所屬公司全名＋登錄字號。",
-  "img": ""
+  "img": "honor-b-04.jpg"
  },
  {
   "id": "honor-b-05",
@@ -3847,7 +3847,7 @@
   ],
   "prompt": "乾淨扁平向量插畫、柔和手繪線稿、低彩度療癒，不要寫實照片、不要3D塑膠感。一張說明會花絮限動框版型（直式）：背景柔白 #FAFCFD（NOT cream, NOT beige, NOT yellow-tinted），四周一圈亮 teal #00D4FF 的扁平相框邊框，左上角一個 #00D4FF 小相機圖示與小對話泡泡（至少兩處清楚 teal 定錨）。中央留一個大圓角空白照片框，框線用沉穩 teal #00B4D8，方便後製貼入活動現場照。下方一排當代台灣東亞臉孔聽眾剪影插畫——黑髮、自然膚色、台灣日常穿著、坐著專注聽講。深藍 #0A1628 作標題「理財說明會花絮」與日期欄。cool-neutral，零大面積暖色。soft natural daylight, neutral-to-cool 5200K, no warm yellow cast。上方約30%留白放標題與場次資訊。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "說明會文字僅放活動資訊，不得含招攬保證、穩成交等禁字；現場照片需去識別化或取得同意。若含業務員署名須標所屬公司全名＋登錄字號，不放保險公司商標或商品名。",
-  "img": ""
+  "img": "honor-b-05.jpg"
  },
  {
   "id": "honor-b-06",
@@ -3861,7 +3861,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風格、單一 teal 圖形＋深藍文字、雙欄對比，不要寫實照片、不要3D塑膠感。一張規劃前 vs 規劃後對比卡（方版）：背景近白 #FDFEFE（NOT cream, NOT beige, NOT yellow-tinted），中央一條淺冷灰藍 #EAF0F3 的分隔帶把畫面切成左右兩欄。左欄「規劃前」用低彩度灰調的散亂線條與打結毛線球圖示象徵雜亂；右欄「規劃後」用亮 teal #00D4FF 的整齊清單勾選圖示與一個 teal #00B4D8 的盾牌安心圖形（至少兩處清楚 teal 定錨）。深藍 #0A1628 作欄位標題與條列文字。整體 cool-neutral，零大面積暖色。soft natural daylight, neutral-to-cool 5200K, no warm yellow cast。上方留白放標題「規劃前後，這樣不一樣」。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "對比僅呈現規劃心境與條理的改善，不得出現具體保額、理賠金額或商品名；避免保證、最高、穩賺等禁字，盾牌僅象徵安心不暗示無風險、保本。署名須標所屬公司全名＋登錄字號。",
-  "img": ""
+  "img": "honor-b-06.jpg"
  },
  {
   "id": "honor-b-07",
@@ -3875,7 +3875,7 @@
   ],
   "prompt": "扁平向量插畫、柔和手繪線稿、低彩度療癒，不要寫實照片、不要3D塑膠感。一張客戶感謝小語見證卡（方版）：背景淺青綠 #E3F2F4（NOT cream, NOT beige, NOT yellow-tinted），中央一張白色圓角便箋卡片，卡片上有亮 teal #00D4FF 的扁平愛心與小信封圖示，便箋以 teal #00B4D8 細線裝飾（至少兩處清楚 teal 定錨）。卡片旁一株小蝴蝶蘭插畫點綴台灣在地感，盆器用 teal #00B4D8。深藍 #0A1628 作感謝小語文字與客戶署名欄（去識別化僅留姓氏）。整體 cool-neutral，零大面積暖色。soft natural daylight, neutral-to-cool 5200K, no warm yellow cast。卡片上方留白放感謝引言。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "客戶感謝須去識別化、取得同意；文字僅放感謝心意，不得含保證、最高、唯一等禁字，不放具體保額理賠金額與保單。業務員署名須標所屬公司全名＋登錄字號。",
-  "img": ""
+  "img": "honor-b-07.jpg"
  },
  {
   "id": "honor-b-08",
@@ -3889,7 +3889,7 @@
   ],
   "prompt": "乾淨扁平資訊圖風格、單一 teal 圖形＋深藍文字、橫式榜單，不要寫實照片、不要3D塑膠感。一張團隊年度榮耀榜版型（橫式）：背景近白 #FDFEFE 搭配右側淺冷灰藍 #EAF0F3 色塊（NOT cream, NOT beige, NOT yellow-tinted）。左側一個亮 teal #00D4FF 的扁平獎盃與緞帶圖形，右側三列圓角榜單條，每列前端一個 teal #00B4D8 的圓形名次徽章（至少兩處清楚 teal 定錨），名字與職稱欄位留白後填。深藍 #0A1628 作標題「年度榮耀榜」與條列文字。整體 cool-neutral，僅獎盃高光一點微暖不到一成。soft natural daylight, neutral-to-cool 5200K, no warm yellow cast。右側一側留白放團隊名與年度。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "榜單僅呈現團隊榮譽名次，不得列具體業績金額或保額；避免第一、最高、唯一等禁字（名次徽章為內部榮譽非對外宣稱市場第一）。署名須標所屬公司全名＋登錄字號，不放保險公司商標或商品名。",
-  "img": ""
+  "img": "honor-b-08.jpg"
  },
  {
   "id": "honor-b-09",
@@ -3903,7 +3903,7 @@
   ],
   "prompt": "扁平向量插畫、柔和手繪線稿、低彩度療癒，不要寫實照片、不要3D塑膠感。一張服務里程碑慶賀卡版型（直式），象徵服務眾多家庭的里程碑：背景柔白 #FAFCFD（NOT cream, NOT beige, NOT yellow-tinted），中央一個亮 teal #00D4FF 的扁平圓形里程碑徽章，徽章內留空白數字欄（如服務年資或家庭數），徽章下垂兩條 teal #00B4D8 緞帶（至少兩處清楚 teal 定錨）。背景點綴幾個淡 teal 小房子與一株台灣常見發財樹插畫象徵在地家庭。下方一位當代台灣東亞臉孔業務員半身插畫——黑髮短髮、自然膚色、穿青綠 #00B4D8 制服、溫和微笑、雙手致意。深藍 #0A1628 作標題與文字。cool-neutral，零大面積暖色。soft natural daylight, neutral-to-cool 5200K, no warm yellow cast。上方約30%留白放里程碑文案。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "里程碑數字僅指服務年資或服務家庭數，不得填業績金額或保額；文字感謝陪伴為主，避免保證、最高、唯一等禁字，不放保險公司商標或商品名。署名須標所屬公司全名＋登錄字號。",
-  "img": ""
+  "img": "honor-b-09.jpg"
  },
  {
   "id": "honor-b-10",
@@ -3917,6 +3917,6 @@
   ],
   "prompt": "乾淨扁平向量插畫、柔和手繪線稿、低彩度療癒，不要寫實照片、不要3D塑膠感。一張說明會圓滿感謝橫幅版型（橫式）：背景淺冷灰藍 #EAF0F3 漸入柔白 #FAFCFD（NOT cream, NOT beige, NOT yellow-tinted）。左側一群當代台灣東亞臉孔聽眾與一位主講者剪影插畫——黑髮與花白短髮、自然膚色、台灣日常穿著、鼓掌微笑，主講者穿沉穩青綠 #00B4D8 上衣。右上有亮 teal #00D4FF 的扁平彩帶與小愛心、左下一個 teal #00B4D8 的握手圖示（至少兩處清楚 teal 定錨）。深藍 #0A1628 作標題「感謝您的參與，圓滿落幕」與場次小字。整體 cool-neutral，僅彩帶尾端一點微暖橘不到一成。soft natural daylight, neutral-to-cool 5200K, no warm yellow cast。右側一側留白放感謝文與下次預告欄。avoid: cream background, beige walls, yellow color cast, sepia tone, washed-out warm filter, overall amber tint, single warm color temperature flooding the whole frame, simplified chinese, western faces, chinese palace style; no over-saturation, no distorted hands/faces.",
   "note": "感謝橫幅文字僅放活動圓滿與致謝，不得含招攬與穩成交、保證等禁字；聽眾圖像需去識別化。若含業務員署名須標所屬公司全名＋登錄字號，不放保險公司商標或商品名。",
-  "img": ""
+  "img": "honor-b-10.jpg"
  }
 ]
