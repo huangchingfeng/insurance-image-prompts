@@ -77,7 +77,7 @@ def main():
 
     def fix_counts(h):
         h = re.sub(r"台灣版 \d+ 張", f"台灣版 {shown} 張", h)
-        h = re.sub(r"已生成示意圖 \d+ 張", f"已上架示意圖 {shown} 張", h)
+        h = re.sub(r"已(生成|上架)示意圖 \d+ 張", f"已上架示意圖 {shown} 張", h)
         h = re.sub(r"分 \d+ 類", f"分 {shown_cats} 類", h)
         return h
 
