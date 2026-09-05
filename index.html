@@ -49,14 +49,23 @@ h1{font-size:24px}h1 .a{color:#00D4FF}
 .x{position:fixed;top:16px;right:20px;background:#0f1f33;border:1px solid #244366;color:#fff;width:42px;height:42px;border-radius:50%;font-size:22px;cursor:pointer;z-index:100}
 .hint{color:#5a7churn}
 @media(max-width:560px){.grid{grid-template-columns:1fr 1fr;gap:10px}.ti{font-size:13px}}
+.sibling{display:flex;flex-wrap:wrap;gap:8px;align-items:center;
+  background:#0f1f33;border:1px solid #1c3a5e;border-radius:10px;
+  padding:10px 14px;margin:0 0 14px;font-size:13.5px;color:#C7C7CC}
+.sibling b{color:#fff;font-weight:700}
+.sibling a{color:#00D4FF;text-decoration:none;font-weight:700;
+  border-bottom:1px solid rgba(0,212,255,.35)}
+.sibling a:hover{border-bottom-color:#00D4FF}
 </style></head><body><div class="wrap">
 <h1>保險做圖提示詞庫 <span class="a">台灣版 280 張</span></h1>
 <div class="sub">當代台灣在地風格・乾淨配色（v2 去黃）・每張內建招攬合規護欄</div>
 <div class="stat">✦ 點任一張卡片看大圖＋完整提示詞 ・ 已上架示意圖 280 張 ・ 分 10 類</div>
+<div class="sibling"><b>這裡是出圖提示詞。</b>要找<b>文字提示詞</b>（話術、信件、健診、理賠、增員、法遵自查，540 題）請到 <a href="https://insurance.autolab.cloud/" target="_blank" rel="noopener">保險業 AI 工具箱</a> ｜ 企業 AI 培訓：<a href="https://www.autolab.cloud" target="_blank" rel="noopener">阿峰老師</a></div>
 <input id="sb" class="search" placeholder="搜尋：中秋、長照、保單健診、增員、節氣...">
 <div id="chips" class="chips"></div>
 <div id="grid" class="grid"></div>
 <div id="pager" class="pager"></div>
+<div class="sibling" style="margin:20px 0 0">找文字提示詞？<a href="https://insurance.autolab.cloud/" target="_blank" rel="noopener">保險業 AI 工具箱（540 題・全數內建反編造與去識別護欄）→</a></div>
 </div>
 <div id="ov" class="ov"><button class="x" id="xbtn">&times;</button><div class="modal" id="modal"></div></div>
 <script>
